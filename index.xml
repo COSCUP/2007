@@ -1,0 +1,535 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+<channel>
+<title></title>
+<link>http://www.tiddlywiki.com/</link>
+<description>2007 COSCUP 開源人年會</description>
+<language>en-us</language>
+<copyright>Copyright 2007 knight</copyright>
+<pubDate>Thu, 01 Nov 2007 04:58:10 GMT</pubDate>
+<lastBuildDate>Thu, 01 Nov 2007 04:58:10 GMT</lastBuildDate>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+<generator>TiddlyWiki 2.2.5</generator>
+<item>
+<title>Slides</title>
+<description> &lt;span tiddler=&quot;HideTiddlerTitle&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt; &lt;span tiddler=&quot;HideTiddlerSubtitle&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt; &lt;span tiddler=&quot;ReplaceDoubleClick&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt; &lt;span tiddler=&quot;HideTiddlerTags&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt; &lt;br&gt;&lt;h1&gt;Slides / 投影片&lt;/h1&gt;&lt;table class=&quot;twtable&quot;&gt;&lt;tbody&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td align=&quot;center&quot;&gt;議程/Session&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;講者/Speaker&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Topic/主題&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;License/授權&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td align=&quot;center&quot;&gt;文字資訊處理&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;陳柏中&lt;/td&gt;&lt;td align=&quot;left&quot;&gt;社群與台灣語文輸入法發展&lt;/td&gt;&lt;td align=&quot;right&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td align=&quot;center&quot;&gt;文字資訊處理&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;姜天戩&lt;/td&gt;&lt;td&gt;&lt;a target=&quot;_blank&quot; title=&quot;External link to Slides/CHT_IM.pdf&quot; href=&quot;Slides/CHT_IM.pdf&quot; class=&quot;externalLink&quot;&gt;華語輸入法在各地的發展近況比較&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;left&quot;&gt;&lt;a target=&quot;_blank&quot; title=&quot;External link to http://creativecommons.org/&quot; href=&quot;http://creativecommons.org/&quot; class=&quot;externalLink&quot;&gt;CC-BY-NC-SA&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td align=&quot;center&quot;&gt;文字資訊處理&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;張正一&lt;/td&gt;&lt;td align=&quot;left&quot;&gt;&lt;a target=&quot;_blank&quot; title=&quot;External link to Slides/CHT_dgg.zip&quot; href=&quot;Slides/CHT_dgg.zip&quot; class=&quot;externalLink&quot;&gt;動態組字與部件筆序&lt;/a&gt;&lt;br&gt;(解開 zip 後, 用 takahashi.xul?data=DGG_coscup07)&lt;/td&gt;&lt;td align=&quot;left&quot;&gt;&lt;a target=&quot;_blank&quot; title=&quot;External link to http://creativecommons.org/licenses/by-nc-nd/2.5/tw/&quot; href=&quot;http://creativecommons.org/licenses/by-nc-nd/2.5/tw/&quot; class=&quot;externalLink&quot;&gt;CC-BY-NC-ND-2.5 TW&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td align=&quot;center&quot;&gt;文字資訊處理&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;葉健欣&lt;/td&gt;&lt;td&gt;&lt;a target=&quot;_blank&quot; title=&quot;External link to Slides/CHT_ksana.odp&quot; href=&quot;Slides/CHT_ksana.odp&quot; class=&quot;externalLink&quot;&gt;剎那搜尋&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a target=&quot;_blank&quot; title=&quot;External link to http://creativecommons.org/licenses/by-sa/2.5/tw/&quot; href=&quot;http://creativecommons.org/licenses/by-sa/2.5/tw/&quot; class=&quot;externalLink&quot;&gt;CC-BY-SA-2.5 TW&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td align=&quot;center&quot;&gt;Linux based Laptop&lt;br&gt;與社群&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Ellis Wang&lt;/td&gt;&lt;td align=&quot;left&quot;&gt;Asus Eee PC Ecosystem Enabling&lt;br&gt;&amp;amp; Development Programs&lt;/td&gt;&lt;td align=&quot;right&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td align=&quot;center&quot;&gt;Linux based Laptop&lt;br&gt;與社群&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Mike Fletcher&lt;/td&gt;&lt;td align=&quot;left&quot;&gt;One Laptop Per Child&lt;/td&gt;&lt;td align=&quot;right&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td align=&quot;center&quot;&gt;大規模運算&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;李宏春&lt;/td&gt;&lt;td align=&quot;left&quot;&gt;Open Source Tools for Grid Application Development&lt;/td&gt;&lt;td align=&quot;right&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td align=&quot;center&quot;&gt;大規模運算&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Christophe Bisciglia&lt;/td&gt;&lt;td align=&quot;left&quot;&gt;Cluster Computing: Why it's happening,&lt;br&gt;why it's important and why open source adds value.&lt;/td&gt;&lt;td align=&quot;right&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td align=&quot;center&quot;&gt;Web 式平台&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;高嘉良&lt;/td&gt;&lt;td align=&quot;left&quot;&gt;&lt;a target=&quot;_blank&quot; title=&quot;External link to Slides/WBP_jifty.tgz&quot; href=&quot;Slides/WBP_jifty.tgz&quot; class=&quot;externalLink&quot;&gt;How I build a business with jifty in 2 weeks&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;left&quot;&gt;&lt;a target=&quot;_blank&quot; title=&quot;External link to http://creativecommons.org/&quot; href=&quot;http://creativecommons.org/&quot; class=&quot;externalLink&quot;&gt;CC NC&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td align=&quot;center&quot;&gt;Web 式平台&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;焉德葳&lt;/td&gt;&lt;td&gt;&lt;a target=&quot;_blank&quot; title=&quot;External link to Slides/WBP_ozearch.odp&quot; href=&quot;Slides/WBP_ozearch.odp&quot; class=&quot;externalLink&quot;&gt;ozearch&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a target=&quot;_blank&quot; title=&quot;External link to http://creativecommons.org/licenses/by-sa/2.5/tw/&quot; href=&quot;http://creativecommons.org/licenses/by-sa/2.5/tw/&quot; class=&quot;externalLink&quot;&gt;CC BY SA 2.5 TW&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td align=&quot;center&quot;&gt;Web 式平台&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;黃純沐&lt;/td&gt;&lt;td align=&quot;left&quot;&gt;&lt;a target=&quot;_blank&quot; title=&quot;External link to Slides/WBP_xportal.pdf&quot; href=&quot;Slides/WBP_xportal.pdf&quot; class=&quot;externalLink&quot;&gt;xportal&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;left&quot;&gt;&lt;a target=&quot;_blank&quot; title=&quot;External link to http://creativecommons.org/licenses/by-nc-nd/2.5/tw/&quot; href=&quot;http://creativecommons.org/licenses/by-nc-nd/2.5/tw/&quot; class=&quot;externalLink&quot;&gt;CC-BY-NC-ND-2.5 TW&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td align=&quot;center&quot;&gt;開放組織新人秀&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;葉平&lt;/td&gt;&lt;td align=&quot;left&quot;&gt;TOSSUG&lt;/td&gt;&lt;td align=&quot;right&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td align=&quot;center&quot;&gt;開放組織新人秀&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;梁楓&lt;/td&gt;&lt;td align=&quot;left&quot;&gt;Study Area&lt;/td&gt;&lt;td align=&quot;right&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td align=&quot;center&quot;&gt;開放組織新人秀&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;鄧傑&lt;/td&gt;&lt;td align=&quot;left&quot;&gt;Wikipedia&lt;/td&gt;&lt;td align=&quot;right&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td align=&quot;center&quot;&gt;開放組織新人秀&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;趙柏強&lt;/td&gt;&lt;td align=&quot;left&quot;&gt;moztw&lt;/td&gt;&lt;td align=&quot;right&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td align=&quot;center&quot;&gt;開放組織新人秀&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;馮正青&lt;/td&gt;&lt;td align=&quot;left&quot;&gt;&lt;a target=&quot;_blank&quot; title=&quot;External link to Slides/ORG_COSCUP.pdf&quot; href=&quot;Slides/ORG_COSCUP.pdf&quot; class=&quot;externalLink&quot;&gt;COSCUP&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a target=&quot;_blank&quot; title=&quot;External link to http://creativecommons.org/licenses/BSD/&quot; href=&quot;http://creativecommons.org/licenses/BSD/&quot; class=&quot;externalLink&quot;&gt;CC BSD&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td align=&quot;center&quot;&gt;開放組織新人秀&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;簡信昌&lt;/td&gt;&lt;td align=&quot;left&quot;&gt;&lt;a target=&quot;_blank&quot; title=&quot;External link to Slides/ORG_OSDCtw.zip&quot; href=&quot;Slides/ORG_OSDCtw.zip&quot; class=&quot;externalLink&quot;&gt;OSDC.tw&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;left&quot;&gt;&lt;a target=&quot;_blank&quot; title=&quot;External link to http://creativecommons.org/&quot; href=&quot;http://creativecommons.org/&quot; class=&quot;externalLink&quot;&gt;CC-BY-NC&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td align=&quot;center&quot;&gt;BSD&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;黃青山&lt;/td&gt;&lt;td&gt;&lt;a target=&quot;_blank&quot; title=&quot;External link to |Slides/BSD_fdp.odp&quot; href=&quot;%7CSlides/BSD_fdp.odp&quot; class=&quot;externalLink&quot;&gt;A quick tutorial for FreeBSD Documentation Project using Docbook/SGML&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a target=&quot;_blank&quot; title=&quot;External link to http://creativecommons.org/licenses/by-nc-sa/3.0/&quot; href=&quot;http://creativecommons.org/licenses/by-nc-sa/3.0/&quot; class=&quot;externalLink&quot;&gt;CC BY NC SA 3.0&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td align=&quot;center&quot;&gt;BSD&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;梁泰華&lt;/td&gt;&lt;td align=&quot;left&quot;&gt;&lt;a target=&quot;_blank&quot; title=&quot;External link to |Slides/BSD_zfs.pdf&quot; href=&quot;%7CSlides/BSD_zfs.pdf&quot; class=&quot;externalLink&quot;&gt;ZFS on FreeBSD: A Quick Tutorial&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a target=&quot;_blank&quot; title=&quot;External link to http://creativecommons.org/licenses/BSD/&quot; href=&quot;http://creativecommons.org/licenses/BSD/&quot; class=&quot;externalLink&quot;&gt;CC BSD&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td align=&quot;center&quot;&gt;BSD&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;rafan&lt;/td&gt;&lt;td align=&quot;left&quot;&gt;&lt;a target=&quot;_blank&quot; title=&quot;External link to Slides/BSD_ports.pdf&quot; href=&quot;Slides/BSD_ports.pdf&quot; class=&quot;externalLink&quot;&gt;駕馭 ports&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a target=&quot;_blank&quot; title=&quot;External link to http://creativecommons.org/&quot; href=&quot;http://creativecommons.org/&quot; class=&quot;externalLink&quot;&gt;CC SA 2.5&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td align=&quot;center&quot;&gt;嵌入式系統&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;黃敬群&lt;/td&gt;&lt;td align=&quot;left&quot;&gt;快快樂樂設計嵌入式即時作業系統&lt;/td&gt;&lt;td&gt;&lt;a target=&quot;_blank&quot; title=&quot;External link to http://creativecommons.org/&quot; href=&quot;http://creativecommons.org/&quot; class=&quot;externalLink&quot;&gt;CC 2.0 SA&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td align=&quot;center&quot;&gt;嵌入式系統&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;古傑芳&lt;/td&gt;&lt;td align=&quot;left&quot;&gt;The DirectFB and I&lt;/td&gt;&lt;td align=&quot;right&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td align=&quot;center&quot;&gt;嵌入式系統&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;陳俊宏&lt;/td&gt;&lt;td align=&quot;left&quot;&gt;OpenMoko 好好玩！&lt;/td&gt;&lt;td align=&quot;right&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td align=&quot;center&quot;&gt;嵌入式系統&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;蔡志展&lt;/td&gt;&lt;td align=&quot;left&quot;&gt;mesh network on openwrt&lt;/td&gt;&lt;td align=&quot;right&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td align=&quot;center&quot;&gt;嵌入式系統&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;林智斌&lt;/td&gt;&lt;td align=&quot;left&quot;&gt;port wifi router to openwrt&lt;/td&gt;&lt;td align=&quot;right&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td align=&quot;center&quot;&gt;嵌入式系統&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;蔡政崇&lt;/td&gt;&lt;td align=&quot;left&quot;&gt;batman on openwrt&lt;/td&gt;&lt;td align=&quot;right&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td align=&quot;center&quot;&gt;閃電秀&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;gasolin&lt;/td&gt;&lt;td align=&quot;left&quot;&gt;&lt;a target=&quot;_blank&quot; title=&quot;External link to Slides/LT_quickzhpy.zip&quot; href=&quot;Slides/LT_quickzhpy.zip&quot; class=&quot;externalLink&quot;&gt;Zhpy&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</description>
+<link>http://www.tiddlywiki.com/#Slides</link>
+<pubDate>Thu, 01 Nov 2007 04:58:09 GMT</pubDate>
+</item>
+<item>
+<title>Program</title>
+<description> &lt;span tiddler=&quot;HideTiddlerTitle&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt; &lt;span tiddler=&quot;HideTiddlerSubtitle&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt; &lt;span tiddler=&quot;ReplaceDoubleClick&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt; &lt;span tiddler=&quot;HideTiddlerTags&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt; &lt;br&gt;&lt;h1&gt;Program / 大會議程&lt;/h1&gt;&lt;h2&gt;11/3 (Sat.)&lt;/h2&gt;&lt;table class=&quot;twtable&quot;&gt;&lt;tbody&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td align=&quot;center&quot;&gt;時間&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;議程&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;講者 主題/與談人&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;09:30-10:00&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;報到&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;10:00-12:10&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;文字資訊處理&lt;/td&gt;&lt;td&gt;主持人: lukhnos&lt;br&gt;與談人&lt;br&gt;- 陳柏中 pcchen: 社群與台灣語文輸入法發展&lt;br&gt;- 姜天戩 b6s: 華語輸入法在各地的發展近況比較&lt;br&gt;- 張正一 magic designer: 動態組字與部件筆序&lt;br&gt;- 葉健欣 yap: 剎那搜尋&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;12:10-13:30&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;午餐&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;13:00-14:30&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Linux based Laptop 與社群&lt;/td&gt;&lt;td&gt;主持人: 葉平&lt;br&gt;- Ellis Wang (&lt;a target=&quot;_blank&quot; title=&quot;External link to http://www.asus.com.tw&quot; href=&quot;http://www.asus.com.tw&quot; class=&quot;externalLink&quot;&gt;ASUS&lt;/a&gt;): Asus Eee PC Ecosystem Enabling &amp;amp; Development Programs&lt;br&gt;- &lt;a target=&quot;_blank&quot; title=&quot;External link to http://wiki.laptop.org/go/User:Mcfletch&quot; href=&quot;http://wiki.laptop.org/go/User:Mcfletch&quot; class=&quot;externalLink&quot;&gt;Mike Fletcher&lt;/a&gt; (&lt;a target=&quot;_blank&quot; title=&quot;External link to http://laptop.org&quot; href=&quot;http://laptop.org&quot; class=&quot;externalLink&quot;&gt;OLPC&lt;/a&gt;): One Laptop Per Child&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;14:30-14:40&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;換場&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;14:40-16:10&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;大規模運算&lt;/td&gt;&lt;td&gt;主持人: Knight Feng&lt;br&gt;- 李宏春 (&lt;a target=&quot;_blank&quot; title=&quot;External link to http://twgrid.org&quot; href=&quot;http://twgrid.org&quot; class=&quot;externalLink&quot;&gt;ASGC&lt;/a&gt;): Open Source Tools for Grid Application Development&lt;br&gt;- Christophe Bisciglia (&lt;a target=&quot;_blank&quot; title=&quot;External link to http://google.com&quot; href=&quot;http://google.com&quot; class=&quot;externalLink&quot;&gt;Google&lt;/a&gt;): Cluster Computing: Why it's happening, why it's important and why open source adds value.&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;16:10-16:30&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;下午茶&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;16:30-17:30&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Web 式平台&lt;/td&gt;&lt;td&gt;主持人: ̣̣吳文熹(暫定)&lt;br&gt;- 高嘉良 clkao: How I build a business with jifty in 2 weeks&lt;br&gt;- 焉德葳 kevinwatt: ozearch&lt;br&gt;- 黃純沐 xportal: xportal&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;17:30-18:00&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;閃電秀&lt;/td&gt;&lt;td&gt;主持人: 劉康民 gugod&lt;br&gt;開放報名中&lt;br&gt;已報名講者: &lt;br&gt;- gasolin - zhpy&lt;br&gt;- #osxchat op - OV hack&lt;br&gt;- 李健秋 AndrewLee - Debian For Begineers&lt;br&gt;- 李圭烽 Thinker: ajaxmind &amp;amp; mez_xml&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;18:00-21:00&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;span&gt;BoF&lt;/span&gt;&lt;/td&gt;&lt;td align=&quot;left&quot;&gt;&lt;a target=&quot;_blank&quot; title=&quot;External link to http://coscup2007.wikidot.com/&quot; href=&quot;http://coscup2007.wikidot.com/&quot; class=&quot;externalLink&quot;&gt;Open Topic, Open For Register at http://coscup.wikidot.com/ &lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h2&gt;11/4 (Sun.)&lt;/h2&gt;&lt;table class=&quot;twtable&quot;&gt;&lt;tbody&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td align=&quot;center&quot;&gt;時間&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;議程&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;講者 主題/與談人&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;09:10-10:40&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;開放組織新人秀&lt;/td&gt;&lt;td&gt;主持人: 中華民國軟體自由協會 SLAT 何建明 理事長&lt;br&gt;講者/與談人:&lt;br&gt;- 葉平: TOSSUG&lt;br&gt;- 梁楓 lman: Study Area&lt;br&gt;- 鄧傑 (虎兒): Wikipedia&lt;br&gt;- 趙柏強 Bob Chao: moztw&lt;br&gt;- 馮正青 Knight Feng: COSCUP&lt;br&gt;- 簡信昌 hcchien: OSDC.tw&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;10:50-12:00&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;BSD&lt;/td&gt;&lt;td&gt;主持人: 廖英傑 ijliao / 吳建達 slzzp&lt;br&gt;- 黃青山 chinsan: A quick tutorial for &lt;span&gt;FreeBSD&lt;/span&gt; Documentation Project using Docbook/SGML&lt;br&gt;- 梁泰華 avatar: ZFS on &lt;span&gt;FreeBSD&lt;/span&gt;: A Quick Tutorial&lt;br&gt;- rafan: 駕馭 ports&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;12:00-13:00&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;午餐&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;13:00-15:00&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;嵌入式系統 #1&lt;/td&gt;&lt;td&gt;主持人: 李圭烽 (thinker)&lt;br&gt;講者:&lt;br&gt;- 黃敬群 jserv: 快快樂樂設計嵌入式即時作業系統&lt;br&gt;- 古傑芳 joseph: The &lt;span&gt;DirectFB&lt;/span&gt; and I&lt;br&gt;- 陳俊宏 Jollen: OpenMoko 好好玩！&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;15:00-15:20&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;下午茶&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;15:20-17:20&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;嵌入式系統 #2&lt;/td&gt;&lt;td&gt;主持人: 李世元 (FourDollars)&lt;br&gt;講者:&lt;br&gt;- 蔡志展 chihchun: mesh network on openwrt&lt;br&gt;- 林智斌 macpaul: port wifi router to openwrt&lt;br&gt;- 蔡政崇 wtsai: batman on openwrt&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</description>
+<link>http://www.tiddlywiki.com/#Program</link>
+<pubDate>Wed, 31 Oct 2007 18:56:00 GMT</pubDate>
+</item>
+<item>
+<title>Detailed</title>
+<description> &lt;span tiddler=&quot;HideTiddlerTitle&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt; &lt;span tiddler=&quot;HideTiddlerSubtitle&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt; &lt;span tiddler=&quot;ReplaceDoubleClick&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt; &lt;span tiddler=&quot;HideTiddlerTags&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt; &lt;br&gt;&lt;h1&gt;講者/摘要&lt;/h1&gt;&lt;h2&gt;文字資訊處理&lt;/h2&gt;本座談將以「update 進況＋討論未來發展」為主。&lt;br&gt;像 gcin 社群經營有成，OpenVanilla 正在思考轉型，也確實在蛻變中，但中文資訊處理絕不只有輸入法而已（或者說，輸入法隨著幾個 framework 成熟，已經是比較被解決的問題了）。&lt;br&gt;去年開始因為 Magic Designer 等朋友的努力，組字又再被注意，酷音詞庫計劃，也重新挖掘出社群的力量（Web 2.0?? 但也發現了社群的限制？）這些也是 pcchen 有興趣的地方 &lt;span&gt;—&lt;/span&gt; 如何利用社群力量開發新的輸入法（本土語言，例如 andrew/arne 在做的事），b6s 應該也能來談一談「中文」輸入在兩岸不管 open source 還是商業界的力量消長與局勢變化。&lt;br&gt;主題還是會放在，open source 中文資訊處理社群，能怎麼繼續經營，會面臨什麼樣的挑戰以及怎麼找尋出路（特別是在台灣這樣的地方），台灣的 developer 的中文經驗能對世界的 open source community 做出什麼樣的貢獻，（舉例: OpenVanilla 與緬甸文輸入法開發者的交流）。&lt;br&gt;&lt;br&gt;&lt;h1&gt;Linux based Laptop 與社群&lt;/h1&gt;近日來 EeePC 及 OLPC 相關話題不斷，兩大開源筆電平台的技術團隊將首度面對面，相信將能促成進一步的合作，或是引爆更深一層的話題！（本議程以英文進行）&lt;br&gt;&lt;ul&gt;&lt;li&gt;Ellis Wang: Asus Eee PC Ecosystem Enabling &amp;amp; Development Programs&lt;ul&gt;&lt;li&gt;Asus Eee PC is a new line of &lt;span&gt;PCs&lt;/span&gt; that focuses on providing users with the most comprehensive Internet application based on three Es: Easy to learn, work, play; Excellent Internet experience and Excellent on the go, and hence the product name of Eee PC. In this talk, he will cover Asus Eee PC Ecosystem Enabling &amp;amp; Development Programs , like How Eee PC to engage with SW Partners and Tiers &amp;amp; What Does Eee PC Development Program Do. And he also will compare Asus Eee PC desktop with other hot laptop Linux distributions from a user's perspective and a coder's perspective.  For Eee PC reference:  &lt;a target=&quot;_blank&quot; title=&quot;External link to http://eeepc.asus.com/en/&quot; href=&quot;http://eeepc.asus.com/en/&quot; class=&quot;externalLink&quot;&gt;http://eeepc.asus.com/en/&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Ellis Wang is the SW lead of Eee PC. He has been thirteen-year experiences on system software products planning, development and engineering. The areas he more focuses on are triple-play IP communications and PC Centrex-based applications. Ellis studies Speech Recognition, Natural Language Grammar Processing &amp;amp; &lt;span&gt;Text-to-Speech&lt;/span&gt; algorithms &amp;amp; technologies at National Cheng Kung University. He can be reached by e-mails:  ellis_wang@asus.com.tw  or ellis_wang@msn.com.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Mike Fletcher: One Laptop Per Child&lt;ul&gt;&lt;li&gt;The One Laptop Per Child project is a non-profit group attempting to provide access to the intellectual and social resources of the world to children who would otherwise be without.  To make this happen it has produced an inexpensive laptop designed explicitly for the needs of young learners, combining an innovative hardware design with novel software and content.  It has also, to some extent, pushed the idea of inexpensive computers to the forefront.  As we see more and more laptops approaching developing-world price-points, we must act to avoid duplicating effort and to increase the value of these projects as educational tools.&lt;/li&gt;&lt;li&gt;Mike Fletcher is responsible for &quot;Developer Relations&quot; for the One Laptop Per Child project. He runs his own small consulting company as well as a number of Open Source projects, including the standard Python binding to OpenGL.  Mike studied Design Epistemology at the University of Waterloo, focusing on applying design theory to the problem of educating designers. Along the way he picked up Virtual Reality as a minor and spent the bulk of the first Internet boom working on a desktop virtual reality environment.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;h2&gt;大規模運算&lt;/h2&gt;電腦、頻寬、儲存設備越來越便宜，我們對問題的胃口越來越大，不知不覺地，科學界已經玩到全球連線的網格計算（Grid Computing），讓基因定序、新藥搜尋、天文學、粒子物理都可以一次用上千台散在世界各地的電腦共同計算一個問題。&lt;br&gt;在此同時，Web 的指數式成長，也讓各大搜尋引擎必須跟上腳步，才能在最短的時間裡，計算出上億個網頁對各個搜尋關鍵字的重要性。這要怎麼做？當然也是需要 N 台電腦來計算。最近 Google 和 IBM 合作要在校園裡推動的 Cloud Computing，就是這種技術。&lt;br&gt;想像一下，如果可以讓上千上萬台電腦一起來解你手上的計算問題，讓本來要一個月才跑完的程式，不到一個小時就算完了，那不是太酷了嗎？這背後的技術是什麼？該如何改寫程式才能用到這樣的計算能力？&lt;br&gt;為此，我們請了中央研究院的李宏春和 Google 的 Christophe Bisciglia 來 COSCUP 告訴大家，他們開發了／用了哪些 open source 的軟體來達成 Grid Computing 和 Cloud Computing。什麼？不用買上百萬元的商業軟體就可以擁有這種高超的技術？沒錯！你所需要的，只是熱誠的學習精神。想一窺門徑，就來參加大規模運算的議程。&lt;br&gt;（本議程以英文進行）&lt;br&gt;&lt;ul&gt;&lt;li&gt;李宏春: Open Source Tools for Grid Application Development&lt;ul&gt;&lt;li&gt;This talk will be an introduction of the 3 open source developments in the grid world: GANGA, DIANE and AMGA, focusing on how they are utilized in different application domain in addressing the issues of the scientific grid computing.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Christophe Bisciglia: Cluster Computing: Why it's happening, why it's important and why open source adds value.&lt;ul&gt;&lt;li&gt;Fundamental changes in the computing architecture are changing the way large technology providers think about large scale computing. Moore's law is no longer making processors faster, but rather, increasingly parallel. Companies like Google have been dealing with this for several years, but the time has come for the rest of the tech industry and academia to embrace and adapt to this change. This creates a unique opportunity to advance open source tools such as Apache's Hadoop Project. In this talk, I will describe the changes taking place, how they effect software design, and what tools exist to leverage the benefits derived from large scale clusters.&lt;/li&gt;&lt;li&gt;Christophe Bisciglia: Christophe is a senior engineer at Google and a visiting scientist at the University of Washington (Computer Science and Engineering Department). He graduated from UW CSE in 2003 and started working with Google's search quality team on internationalization and personalization systems. Since then, he has spearheaded a partnership between Google, IBM, UW and several other universities to facilitate teaching large scale computing to undergraduates. The most recent development is the Google/IBM Academic Cluster Computing Initiative which provides access to a large scale cluster for academic use.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;h2&gt;Web 式平台&lt;/h2&gt;Web 2.0 的熱潮持續不退，而 SOA 的概念又將 Web 平台提升至另一個高峰，就算猜測未來十年是 Web 的時代也不為過；而在 Web 2.0 時代中，除了 blog / wiki / CMS (內容管理系統) 等常見的平台之外，還有許多在幕後默默支持這些系統成功的工具。今年我們邀請了 kevinwatt 與大家分享搜尋引擎的開發經驗, 也請知名的 clkao 長輩來跟大家介紹他怎麼用 Jifty 從事商業行為，最特別的是我們也邀請了 xportal 的作者來介紹這套完全自行開發的本土 Portal 平台。&lt;br&gt;&lt;br&gt;&lt;h2&gt;開放組織新人秀&lt;/h2&gt;2006-2007 對台灣的開放源碼界來說，可真是百花齊放的一年！除了 Wikipedia 年會來台舉辦，引發一波維基熱，並成立了中華民國維基媒體協會；Mozilla 亦將成立社團法人台灣摩茲協會；此外本土社群 TOSSUG 及 StudyArea 都有一些想要推動的工作，也發現需要一個貼近社群的法人來處理捐贈和稅務的問題，因此社群朋友開始構思要成立新的法人；ICOS 之外的台灣兩大開放源碼社群活動 COSCUP 及 OSDC.tw 也將分別闡述近年活動成果及未來展望。本場次邀請到台灣第一個開放源碼法人 SLAT 暨 ICOS 承辦單位的大家長何建明老師主持。&lt;br&gt;&lt;br&gt;&lt;h2&gt;BSD&lt;/h2&gt;BSD 一直是在開放源碼作業系統當中，和 Linux 站在兩邊的另一人，當 Linux 以各種 Distribution 散佈並走紅的同時，BSD 則站在各大商業平台的背後默默的支持；而台灣地區 BSD 圈子裡的知名人物，通常都在網路或技術社群中同時具有其他重要的角色。在 FreeBSD 7.0 版即將推出的同時、且讓這些平常只會只聞其名不見其人的長輩們來聊聊新玩意兒。&lt;br&gt;&lt;br&gt;&lt;h2&gt;嵌入式系統&lt;/h2&gt;嵌入式系統開發者採用 Open Source 軟體、尤其是 embedded linux 已行之有年；其他使用 linux 作為核心系統的設備如路由器、無線基地台、手機、NAS 等產品，在全球市場上已有不小的佔有率。台灣的 IT 廠商一向有極強的製造能力，在這波結合硬體和 open source 軟體的浪潮中，也沒有缺席；他們開發了許多產品，也培養了不少 linux 核心和驅動程式的第一線高手。&lt;br&gt;台灣的 IT 廠商和 open source 社群之間向來甚少交流。這次舉辦嵌入式系統的議程，希望能讓平常在各 IT 公司工作的工程師共聚一堂，分享在即時性作業系&lt;br&gt;統、網路設備、顯示等等領域的成果，提升彼此的技術實力。&lt;br&gt;自從 OpenMoko 這個以「從裡到外完全 open source 的手機平台」為願景的專案成形以來，全球各 open source 社群對它投射了極度的關注。由大眾電腦鼎力支持並提供硬體的 OpenMoko 專案，今年也將來 COSCUP 介紹他們的平台。&lt;br&gt;去年底由世界知名網路藝術家鄭淑麗和國內 open source 社群合作的作品 porta2030 讓許多人接觸到了 OpenWrt 這個架在 linux 核心上的 firmware 系&lt;br&gt;統，以及和 mesh network 有關的技術，還促成社群中的一位學生在今年暑假遠赴柏林和當地的 mesh network 高手實習。這次也有不少 OpenWrt 和 mesh network 相關的演講。&lt;br&gt;&lt;ul&gt;&lt;li&gt;Jim Huang (黃敬群)，網路暱稱為 &quot;jserv&quot;，目前服務於無線通訊產業。閒暇時投入若干項自由軟體開發，不排斥任何作業系統，並以研究其核心設計與實作為樂。興趣為分散式運算、嵌入式系統、多媒體處理效能最佳化、物件導向設計與分析、社會主義、電腦圖學，以及多國語文處理等。&lt;ul&gt;&lt;li&gt; homepage: &lt;a target=&quot;_blank&quot; title=&quot;External link to http://jserv.sayya.org/&quot; href=&quot;http://jserv.sayya.org/&quot; class=&quot;externalLink&quot;&gt;http://jserv.sayya.org/&lt;/a&gt; blog: &lt;a target=&quot;_blank&quot; title=&quot;External link to http://blog.linux.org.tw/jserv/&quot; href=&quot;http://blog.linux.org.tw/jserv/&quot; class=&quot;externalLink&quot;&gt;http://blog.linux.org.tw/jserv/&lt;/a&gt;&lt;/li&gt;&lt;li&gt;議程摘要：延續 Orz Microkernel 的想法，設計新的作業系統也可以相當有趣，以實體的機器人設計作為主軸，體驗如何親手打造嵌入式系統並著手設計相關的軟硬體建設，預計有：&lt;ul&gt;&lt;li&gt; 從零到有，設計 Embedded RTOS&lt;/li&gt;&lt;li&gt; 針對嵌入式環境與機器人自動控制需求，對 RTOS 作系統調整&lt;/li&gt;&lt;li&gt; 善用 GNU Toolchain 與諸多自由軟體，加速開發與系統偵錯&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;擺脫學院派繁瑣的細節，本議程以「快快樂樂」的角度切入，期望與會者對嵌入式系統設計有不同的看法。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Joseph Ku (古傑芳)&lt;ul&gt;&lt;li&gt;個人簡介:&lt;ul&gt;&lt;li&gt;網虎國際 軟體工程師&lt;/li&gt;&lt;li&gt;美商InterVideo 資深軟體工程師&lt;/li&gt;&lt;li&gt;凱太數位 技術總監&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;講題摘要:&lt;ul&gt;&lt;li&gt;Framebuffer&lt;/li&gt;&lt;li&gt;Framebuffer In Linux&lt;/li&gt;&lt;li&gt;Disaster of Linux Desktop Development&lt;/li&gt;&lt;li&gt;DirectFB&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;h2&gt;閃電秀&lt;/h2&gt;&lt;h3&gt;周蟒 (zhpy)  &lt;span&gt;—&lt;/span&gt; 中文 python 程式語言&lt;/h3&gt;周蟒(zhpy)是全功能的中文 python 程式語言替身，透過周蟒可以使用繁簡中文關鍵字/參數/變數來學習和編寫程式。周蟒是友善、易於學習而強大的中文程式語言，期望成為台灣/中國人首選的程式入門教學工具。&lt;br&gt;周蟒檔案小(核心 &amp;lt;10k)，易於安裝、跨平台、附命令行工具與互動式直譯器，採用 Python 語言清晰可讀的語法，直觀的物件導向能力，方便的動態物件類型等特性。周蟒程式可以與 python 程式無縫轉換。在降低學習程式門檻的同時，也適合橋接英文程式語言學習。&lt;br&gt;周蟒提供互動直譯器，中文系統腳本，與 python 程式雙向轉換，編譯器等功能。&lt;br&gt;&lt;ul&gt;&lt;li&gt;zhpy 網站: &lt;a target=&quot;_blank&quot; title=&quot;External link to http://code.google.com/p/zhpy/&quot; href=&quot;http://code.google.com/p/zhpy/&quot; class=&quot;externalLink&quot;&gt;http://code.google.com/p/zhpy/&lt;/a&gt;&lt;/li&gt;&lt;li&gt;gasolin, zhpy 作者,  google pythontw group 管理者, TurboGears WebFramework contributor.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;OV hack&lt;/h3&gt;&lt;ul&gt;&lt;li&gt; 慶祝 OV &lt;a target=&quot;_blank&quot; title=&quot;External link to http://lukhnos.org/blog/zh/archives/560&quot; href=&quot;http://lukhnos.org/blog/zh/archives/560&quot; class=&quot;externalLink&quot;&gt;三歲生日&lt;/a&gt;, 一切 &lt;a target=&quot;_blank&quot; title=&quot;External link to http://www.flickr.com/photos/lukhnos/1712179502/&quot; href=&quot;http://www.flickr.com/photos/lukhnos/1712179502/&quot; class=&quot;externalLink&quot;&gt;盡在不言中&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+<link>http://www.tiddlywiki.com/#Detailed</link>
+<pubDate>Wed, 31 Oct 2007 15:53:00 GMT</pubDate>
+</item>
+<item>
+<title>MainMenu</title>
+<description>&lt;span tiddler=&quot;HideTiddlerTitle&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt;&lt;span tiddler=&quot;HideTiddlerSubtitle&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt;&lt;span tiddler=&quot;ToggleRightSidebar&quot; refresh=&quot;content&quot;&gt;&lt;a style=&quot;cursor: pointer; font-weight: normal;&quot; href=&quot;javascript:;&quot; title=&quot;show sidebar&quot; class=&quot;tiddlyLinkExisting&quot;&gt;&amp;lt;&amp;lt;&amp;lt;&lt;/a&gt;&lt;/span&gt;&lt;br&gt;&lt;a tiddlyfields=&quot;server.type:&amp;quot;file&amp;quot; server.host:&amp;quot;file://G:\Work\07_11_COSCUP\web\index.html&amp;quot;&quot; tiddlylink=&quot;COSCUP&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#COSCUP&quot; href=&quot;http://www.tiddlywiki.com/#COSCUP&quot; class=&quot;externalLink&quot;&gt;大會宗旨&lt;/a&gt;&lt;br&gt;&lt;a tiddlyfields=&quot;server.type:&amp;quot;file&amp;quot; server.host:&amp;quot;file://G:\Work\07_11_COSCUP\web\index.html&amp;quot;&quot; tiddlylink=&quot;Program&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#Program&quot; href=&quot;http://www.tiddlywiki.com/#Program&quot; class=&quot;externalLink&quot;&gt;大會議程&lt;/a&gt;&lt;br&gt;&lt;a tiddlyfields=&quot;server.type:&amp;quot;file&amp;quot; server.host:&amp;quot;file://G:\Work\07_11_COSCUP\web\index.html&amp;quot;&quot; tiddlylink=&quot;Detailed&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#Detailed&quot; href=&quot;http://www.tiddlywiki.com/#Detailed&quot; class=&quot;externalLink&quot;&gt;講者/摘要&lt;/a&gt;&lt;br&gt;&lt;a tiddlyfields=&quot;server.type:&amp;quot;file&amp;quot; server.host:&amp;quot;file://G:\Work\07_11_COSCUP\web\index.html&amp;quot;&quot; tiddlylink=&quot;ORG&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#ORG&quot; href=&quot;http://www.tiddlywiki.com/#ORG&quot; class=&quot;externalLink&quot;&gt;合辦單位&lt;/a&gt;&lt;br&gt;&lt;a tiddlyfields=&quot;server.type:&amp;quot;file&amp;quot; server.host:&amp;quot;file://G:\Work\07_11_COSCUP\web\index.html&amp;quot;&quot; tiddlylink=&quot;CFP&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#CFP&quot; href=&quot;http://www.tiddlywiki.com/#CFP&quot; class=&quot;externalLink&quot;&gt;徵求提案&lt;/a&gt;&lt;br&gt;&lt;a tiddlyfields=&quot;server.type:&amp;quot;file&amp;quot; server.host:&amp;quot;file://G:\Work\07_11_COSCUP\web\index.html&amp;quot;&quot; tiddlylink=&quot;Dates&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#Dates&quot; href=&quot;http://www.tiddlywiki.com/#Dates&quot; class=&quot;externalLink&quot;&gt;重要日程&lt;/a&gt;&lt;br&gt;&lt;a tiddlyfields=&quot;server.type:&amp;quot;file&amp;quot; server.host:&amp;quot;file://G:\Work\07_11_COSCUP\web\index.html&amp;quot;&quot; tiddlylink=&quot;Promotion&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#Promotion&quot; href=&quot;http://www.tiddlywiki.com/#Promotion&quot; class=&quot;externalLink&quot;&gt;宣傳稿&lt;/a&gt;&lt;br&gt;&lt;a tiddlyfields=&quot;server.type:&amp;quot;file&amp;quot; server.host:&amp;quot;file://G:\Work\07_11_COSCUP\web\index.html&amp;quot;&quot; tiddlylink=&quot;Stick&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#Stick&quot; href=&quot;http://www.tiddlywiki.com/#Stick&quot; class=&quot;externalLink&quot;&gt;小貼紙&lt;/a&gt;&lt;br&gt;&lt;a tiddlyfields=&quot;server.type:&amp;quot;file&amp;quot; server.host:&amp;quot;file://G:\Work\07_11_COSCUP\web\index.html&amp;quot;&quot; tiddlylink=&quot;Slides&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#Slides&quot; href=&quot;http://www.tiddlywiki.com/#Slides&quot; class=&quot;externalLink&quot;&gt;投影片&lt;/a&gt;&lt;br&gt;&lt;a tiddlyfields=&quot;server.type:&amp;quot;file&amp;quot; server.host:&amp;quot;file://G:\Work\07_11_COSCUP\web\index.html&amp;quot;&quot; tiddlylink=&quot;REG&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#REG&quot; href=&quot;http://www.tiddlywiki.com/#REG&quot; class=&quot;externalLink&quot;&gt;報名&lt;/a&gt;&lt;br&gt;&lt;a tiddlyfields=&quot;server.type:&amp;quot;file&amp;quot; server.host:&amp;quot;file://G:\Work\07_11_COSCUP\web\index.html&amp;quot;&quot; tiddlylink=&quot;Past&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#Past&quot; href=&quot;http://www.tiddlywiki.com/#Past&quot; class=&quot;externalLink&quot;&gt;歷年活動&lt;/a&gt;&lt;br&gt;    &lt;span&gt;&lt;b&gt;&lt;a href=&quot;index_e.html&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;    English&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;/span&gt;</description>
+<link>http://www.tiddlywiki.com/#MainMenu</link>
+<pubDate>Wed, 31 Oct 2007 15:13:00 GMT</pubDate>
+</item>
+<item>
+<title>Promotion</title>
+<description>&lt;span tiddler=&quot;HideTiddlerTitle&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt; &lt;span tiddler=&quot;HideTiddlerSubtitle&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt; &lt;span tiddler=&quot;ReplaceDoubleClick&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt; &lt;span tiddler=&quot;HideTiddlerTags&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;h1&gt;News Release / 新聞稿&lt;/h1&gt;聯絡人：陳貴成 (kc@coscup.org)&lt;br&gt;&lt;br&gt;開放源碼研討會 (ICOS) 及開源人年會 (COSCUP) 今年以聯合研討會的形式，將於 2007 年 11 月 1 日至 11 月 4 日於台北市科技大樓盛大舉辦。自 1999 年起即為台灣地區自由軟體界年度盛事的 ICOS，與全台最大開放源碼社群聚會的 COSCUP 共同舉辦，同時結合國科會自由軟體期末成果展，將讓本聯合研討會成為今年度自由軟體／開放源碼界的大型嘉年華會！&lt;br&gt;&lt;br&gt;在各國政府陸續採用自由軟體的同時，台灣有哪些對應措施？微軟在歐洲的逆境與在台灣的相對強勢，我們又該如何看待？在本研討會中，台灣的資訊政策主導機關將針對自由軟體政策進行說明外，我們也邀請台灣微軟與台灣網威針對其令自由軟體圈爭議的合作進行說明！希望藉此能在自由軟體商業市場上，協助台灣廠商尋求一片新藍海。&lt;br&gt;&lt;br&gt;開放源碼的軟體和技術，已經滲透到世界各角落和各個領域。今年的聯合研討會將涵蓋 Web、低價筆記型電腦、嵌入式系統、大規模運算、中文資訊處理等技術議題，並請到各領域的開發者、使用者及社群人士到現場交流。&lt;br&gt;&lt;br&gt;開放源碼一向是 Web 背後的重要推手，部落格 (blog) 及維基 (wiki) 等開源系統在 Web 2.0 的熱潮中扮演極重要的角色，而 FireFox 更是全球最知名的開放源&lt;br&gt;碼瀏覽器，今年將且時從伺服器和用戶兩端來討論相關的新技術。&lt;br&gt;&lt;br&gt;近日來兩個採用開放源碼的低價筆電 EeePC 及 OLPC 相關話題不斷，兩大技術團隊將在本次研討會中首度面對面，相信將能促成進一步的合作。&lt;br&gt;&lt;br&gt;全球開源社群對開源手機平台 OpenMoko 的極度關注，將近年嵌入式平台的開發議題推向另一個高點，今年嵌入式開源軟體是研討會的一大重點，OpenMoko 及相關嵌入式平台的開發者將介紹各式嵌入式系統的開源軟體。&lt;br&gt;&lt;br&gt;Google、Yahoo 等網路服務的成功和網格運算的崛起，使得以開放源碼打造巨大叢集的技術成為近年的顯學之一，Google 和中央研究院將介紹他們開發的技術。&lt;br&gt;&lt;br&gt;今年台灣社群有了中文動態組字及搜尋等生力軍加入，對於中文未來在電腦上的發展可望有不小的衝擊。&lt;br&gt;&lt;br&gt;除了政策和技術議題之外，對於開放源碼在教育、商業及非營利組織的應用，也請講者來談採用開放源碼的經驗，尤其是在網路上的應用，相信能協助各企業及非營利組織更進一步了解如何有效使用開放源碼軟體。&lt;br&gt;&lt;br&gt;大會網址:&lt;br&gt;  ICOS: &lt;a target=&quot;_blank&quot; title=&quot;External link to http://2007.icos.org.tw/&quot; href=&quot;http://2007.icos.org.tw/&quot; class=&quot;externalLink&quot;&gt;http://2007.icos.org.tw/&lt;/a&gt;&lt;br&gt;  COSCUP: &lt;a target=&quot;_blank&quot; title=&quot;External link to http://coscup.org/&quot; href=&quot;http://coscup.org/&quot; class=&quot;externalLink&quot;&gt;http://coscup.org/&lt;/a&gt;&lt;br&gt;&lt;br&gt;聯合研討會報名網頁： &lt;a target=&quot;_blank&quot; title=&quot;External link to http://coscup.org/2007/#REG&quot; href=&quot;http://coscup.org/2007/#REG&quot; class=&quot;externalLink&quot;&gt;http://coscup.org/2007/#REG&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;h1&gt;Promotion / 宣傳稿&lt;/h1&gt;&lt;h3&gt;COSCUP 開源人年會&lt;/h3&gt;Coders、users 和 promoters 是讓 open source 軟體發光發熱的支柱，社群同好在相關的領域中的貢獻，讓 open source 軟體更趨成熟。每年一次的開源人年會，是專為這三種人舉辦的。你可以是 A 軟體的 coder、B 軟體的 promoter 或是 C 軟體的 user。不論你是已經踏入 open source 領域，還是一直站在門口不知如何入門，又或者你是圈子裡的長輩，我們都竭誠歡迎你來參加 COSCUP - Conference for Open Source Coders, Users and Promoters！&lt;br&gt;&lt;br&gt;今年的 COSCUP 開源人年會與 ICOS 聯合舉辦，讓一年一度的自由軟體界盛事更為盛大。而今年的 COSCUP 最大的改變，是由各台灣本地社群共同舉辦，也希望能透過這樣的合作，增加社群同好的參與度，正如 COSCUP 的精神，在這個研討會當中，你同時是與會者，推廣者，也參與了大會的運作。&lt;br&gt;&lt;br&gt;今年 COSCUP 的重點，因 Web 2.0 及 OLPC 等發燒話題，因而排入了許多與 Web 平台及嵌入式系統的相關議題，而中文議程、閃電秀及系統議程則是歷年來聽眾有興趣的重頭戲。此外今年因各大開放源碼相關法人陸續成立，也提供了一個機會讓各法人可以交流。&lt;br&gt;&lt;br&gt;議程內容精彩絕倫、除了邀請到社群重量級前輩、我們也希望藉由發掘本土隱性OSS 專案，找到更多的參與者，讓大家有機會在這個場合中擦出更多的火花。&lt;br&gt;&lt;br&gt;&lt;h3&gt;COSCUP Conference for Open Source Coders, Users and Promoters&lt;/h3&gt;Coders, users and promoters are the backbone for brightening Open Source softwares, and communities contribute in related fields mature open source softwares. COSCUP is for this 3 kinds of persons. You can be the coder of A software, promoter of B software or the user of C software. No matter you are already in the circle of open source, just wait outside and see what's happened, or you contribute a lot in the area, you are all welcome to be with us in COSCUP - Conference for Open Source Coders, Users and Promoters!&lt;br&gt;&lt;br&gt;COSCUP 2007 is a joint conference of ICOS (International Conference on Open Source), to make the open source carnival more exciting. The mostly change of COSCUP in 2007 is, the conference is co-organized by all local communities in Taiwan, we hope to enlarge the participation of local communities during such kind of cooperation. Just like the spirit of COSCUP, in this conference, you can be both attendee and promoter, and also involve the operation of the conference.&lt;br&gt;&lt;br&gt;The major topics in COSCUP 2007 including web-based platform and embedded system due to the popularity of Web 2.0 and OLPC; the Chinese session, Lightning Talk and System session are the most interesting topics for years. However, lots of non-profit organizations become activated, there's also a session for these new organizations to expose and communicate to each other.&lt;br&gt;&lt;br&gt;The program is attractive just like before, we invite not only big ones in the community but also developers of non-famous local OSS projects, to get more people involved and make OSS more brilliant in Taiwan.</description>
+<link>http://www.tiddlywiki.com/#Promotion</link>
+<pubDate>Thu, 25 Oct 2007 02:00:00 GMT</pubDate>
+</item>
+<item>
+<title>SiteTitle</title>
+<description>&lt;img src=&quot;071024_coscup_2007_logo.png&quot; title=&quot;2007 COSCUP 開源人年會&quot;&gt;</description>
+<link>http://www.tiddlywiki.com/#SiteTitle</link>
+<pubDate>Wed, 24 Oct 2007 15:01:00 GMT</pubDate>
+</item>
+<item>
+<title>SiteSubtitle</title>
+<description>2007 COSCUP 開源人年會</description>
+<link>http://www.tiddlywiki.com/#SiteSubtitle</link>
+<pubDate>Tue, 23 Oct 2007 00:39:00 GMT</pubDate>
+</item>
+<item>
+<title>StyleSheet</title>
+<description>&lt;a tiddlyfields=&quot;server.type:&amp;quot;file&amp;quot; server.host:&amp;quot;file://G:\Work\07_11_COSCUP\web\LewcidOrange.html&amp;quot;&quot; tiddlylink=&quot;SideBarWG&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#SideBarWG&quot; href=&quot;http://www.tiddlywiki.com/#SideBarWG&quot; class=&quot;externalLink&quot;&gt;SideBarWG&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;topMen br {&lt;a target=&quot;_blank&quot; title=&quot;External link to display:none&quot; href=&quot;display:none&quot; class=&quot;externalLink&quot;&gt;display:none&lt;/a&gt;;}&lt;/li&gt;&lt;/ol&gt;&lt;h1&gt;Top Menu Styles&lt;/h1&gt;&lt;pre&gt;#topMenu br {display:none; }
+#topMenu { background: #000 ; color:#fff;padding: 0.5em 0.5em;}
+&lt;/pre&gt;&lt;br&gt;&lt;h1&gt;General&lt;/h1&gt;&lt;pre&gt;body {
+ background: #444;
+ margin: 0 auto;
+}
+
+ #contentWrapper{
+ background: #fff;
+ border: 0;
+ margin: 0 1em;
+
+ padding:0;
+}
+&lt;/pre&gt;&lt;br&gt;&lt;h1&gt;Header rules&lt;/h1&gt;&lt;pre&gt;.titleLine{
+ margin: 0px 3em 0em 0em;
+margin-left:1.7em;
+margin-bottom: 0px;
+ padding: 0;
+ text-align: left;
+ color: #fff;
+}
+
+.siteTitle {
+	font-size: 2em;
+        font-weight: bold;
+}
+
+.siteSubtitle {
+	font-size: 0px;
+        display: block;
+        margin: .5em auto 1em;
+}
+
+.gradient {margin: 0 auto;}
+
+
+
+.header {
+ background: #fff; 
+ margin: 0 0em;
+ padding:0 12px;
+
+}
+&lt;/pre&gt;&lt;br&gt;&lt;h1&gt;Display Area&lt;/h1&gt;&lt;pre&gt;#bodywrapper {margin:0 12px; padding:0;background:#fff; height:1%}
+
+#displayArea{
+ margin: 0em 16em 0em 1em;
+ text-align: left;
+}
+
+.tiddler {
+	padding: 1em 1em 0em 0em;
+}
+
+h1,h2,h3,h4,h5 { color: #000; background: transparent; padding-bottom:2px; border-bottom: 1px dotted #666; }
+.title {color:black; font-size:1.8em; border-bottom:1px solid #333; padding-bottom:0.3px;}
+.subtitle { font-size:90%; color:#ccc; padding-left:0.25em; margin-top:0.1em; }
+
+.shadow .title {
+	color: #aaa;
+}
+
+.tagClear{
+	clear: none; 
+}
+
+* html .viewer pre {
+	margin-left: 0em;
+}
+
+* html .editor textarea, * html .editor input {
+	width: 98%;
+}
+
+.tiddler {margin-bottom:1em; padding-bottom:0em;}
+
+
+.toolbar .button {color:#bbb; border:none;}
+.toolbar .button:hover, .toolbar .highlight, .toolbar .marked, .toolbar a.button:active {background:transparent; color:#111; border:none; text-decoration:underline;}
+
+#sidebar .highlight, #sidebar .marked {background:transparent;}
+
+.tagging, .tagged {
+	border: 1px solid #eee;
+	background-color: #F7F7F7;
+}
+
+.selected .tagging, .selected .tagged {
+	background-color: #eee;
+	border: 1px solid #bbb;
+}
+
+ .tagging .listTitle, .tagged .listTitle {
+	color: #bbb;
+}
+
+.selected .tagging .listTitle, .selected .tagged .listTitle {
+	color: #222; 
+}
+
+
+.tagging .button:hover, .tagged .button:hover {
+		border: none; background:transparent; text-decoration:underline; color:#000;
+}
+
+.tagging .button, .tagged .button {
+		color:#aaa;
+}
+
+.selected .tagging .button, .selected .tagged .button {
+		color:#000;
+}
+
+.viewer blockquote {
+	border-left: 3px solid #000;
+}
+
+.viewer pre, .viewer code {
+	border: 1px dashed #ccc;
+	background: #eee;}
+
+.viewer hr {
+	border: 0;
+	border-top: solid 1px #333;
+ margin: 0 8em;
+	color: #333;
+}
+
+.highlight, .marked {background:transparent; color:#111; border:none; text-decoration:underline;}
+
+.viewer .highlight, .viewer .marked {text-decoration:none;}
+
+#sidebarTabs .highlight, #sidebarTabs .marked {color:#000; text-decoration:none;}
+
+.tabSelected {
+ color: #000;
+ background: #fff;
+ border-top: solid 1px #ccc;
+ border-left: solid 1px #ccc;
+ border-right: solid 1px #ccc;
+ border-bottom: none;
+}
+
+.viewer .tabSelected:hover{color:#000;}
+
+.viewer .tabSelected {font-weight:bold;}
+
+.tabUnselected {
+ color: #999;
+ background: #eee;
+ border-top: solid 1px #ccc;
+ border-left: solid 1px #ccc;
+ border-right: solid 1px #ccc;
+ border-bottom: solid 1px #ccc;
+ padding-bottom:1px;
+}
+
+.tabContents {
+ background: #fff;
+  color: #000;
+}
+&lt;/pre&gt;&lt;h3&gt;Tables&lt;/h3&gt;&lt;pre&gt;.viewer table {
+	border: 1px solid #000;
+}
+
+.viewer th, thead td {
+	background: #000;
+	border: 1px solid #000;
+	color: #fff;
+}
+
+.viewer td, .viewer tr {
+	border: 1px solid #111; padding:4px;
+}
+&lt;/pre&gt;&lt;br&gt;&lt;br&gt;&lt;h3&gt;Editor area&lt;/h3&gt;&lt;pre&gt;.editor input, .editor textarea {
+	border: 1px solid #ccc;
+}
+
+.editor {padding-top:0.3em;}
+
+.editor textarea:focus, .editor input:focus {
+	border: 1px solid #333;
+}
+&lt;/pre&gt;&lt;br&gt;&lt;h1&gt;Sidebar&lt;/h1&gt;&lt;pre&gt;#sidebar{
+position:relative;
+float:right;
+margin-bottom:1em;
+display:inline;
+width: 16em;
+}
+
+#sidebarOptions .sliderPanel {
+	background: #eee; border:1px solid #ccc;
+}
+&lt;/pre&gt;&lt;br&gt;&lt;h1&gt;Body Footer rules&lt;/h1&gt;&lt;pre&gt;#contentFooter {
+ text-align: center;
+ clear: both;
+ color:#fff;
+ background: #000;
+ padding: 1em 2em;
+font-weight:bold;
+}
+&lt;/pre&gt;&lt;h1&gt;Link Styles&lt;/h1&gt;&lt;pre&gt;a{
+	color: #000;
+}
+
+a:hover{
+        color: #FF6600;
+        background:#fff;
+}
+
+
+.button {
+	color: #000;
+	border: 1px solid #fff;
+}
+
+.button:hover {
+	color: #fff;
+	background: #ff8614;
+	border-color: #000;
+}
+
+.button:active {
+	color: #fff;
+	background: #ff8614;
+	border: 1px solid #000;
+}
+
+.tiddlyLink {border-bottom: 1px dotted #000;}
+.tiddlyLink:hover {border-bottom: 1px dotted #FF6600;} 
+
+.titleLine a {border-bottom: 1px dotted #FF9900;}
+
+.titleLine a:hover {border-bottom: 1px dotted #fff;}
+
+.siteTitle a, .siteSubtitle a{
+ color: #fff;
+}
+
+.viewer .button {border: 1px solid #ff8614; font-weight:bold;}
+.viewer .button:hover, .viewer .marked, .viewer .highlight{background:#ff8614; color:#fff; font-weight:bold; border: 1px solid #000;}
+
+#topMenu .button, #topMenu .tiddlyLink {
+ margin-left:0.5em; margin-right:0.5em;
+ padding-left:3px; padding-right:3px;
+ color:white; font-weight:bold;
+}
+#topMenu .button:hover, #topMenu .tiddlyLink:hover { background:#000; color:#FF8814}
+
+#topMenu a{border:none;}
+&lt;/pre&gt;&lt;br&gt;&lt;h1&gt;Message Area &lt;/h1&gt;&lt;pre&gt;#messageArea {
+	border: 4px dotted #ff8614;
+	background: #000;
+	color: #fff;
+        font-size:90%;
+}
+
+#messageArea .button {
+	padding: 0.2em;
+	color: #000;
+	background: #fff;
+        text-decoration:none;
+        font-weight:bold;
+        border:1px solid #000; 
+}
+
+#messageArea a {color:#fff;}
+
+#messageArea a:hover {color:#ff8614; background:transparent;}
+
+#messageArea .button:hover {background: #FF8614; color:#fff; border:1px solid #fff; }
+&lt;/pre&gt;&lt;br&gt;&lt;h1&gt;Popup &lt;/h1&gt;&lt;pre&gt;.popup {
+	background: #ff8814;
+	border: 1px solid #333;
+}
+
+.popup hr {
+	color: #333;
+	background: #333;
+	border-bottom: 1px;
+}
+
+.popup li.disabled {
+	color: #333;
+}
+
+.popup li a, .popup li a:visited {
+	color: #eee;
+	border: none;
+}
+
+.popup li a:hover {
+	background: #ff8614;
+	color: #fff;
+	border: none;
+        text-decoration:underline;
+}
+
+.searchBar {float:right; font-size:1em;}
+.searchBar .button {display:block; border:none; color:#ccc; }
+.searchBar .button:hover{border:none; color:#eee;}
+
+.searchBar input{
+ border: 1px inset #000; background:#EFDFD1; width:5em; margin:0;
+}
+
+.searchBar input:focus {
+ border: 1px inset #000; background:#fff;
+}
+
+*html .titleLine {margin-right:1.3em;}
+
+*html .searchBar .button {margin-left:1.7em;}
+
+ .HideSideBarButton {float:right;} 
+&lt;/pre&gt;&lt;br&gt;.blog h2, .blog h3, .blog h4{&lt;br&gt;  &lt;a target=&quot;_blank&quot; title=&quot;External link to margin:0&quot; href=&quot;margin:0&quot; class=&quot;externalLink&quot;&gt;margin:0&lt;/a&gt;;&lt;br&gt;  &lt;a target=&quot;_blank&quot; title=&quot;External link to padding:0&quot; href=&quot;padding:0&quot; class=&quot;externalLink&quot;&gt;padding:0&lt;/a&gt;;&lt;br&gt;border-&lt;a target=&quot;_blank&quot; title=&quot;External link to bottom:none&quot; href=&quot;bottom:none&quot; class=&quot;externalLink&quot;&gt;bottom:none&lt;/a&gt;;&lt;br&gt;}&lt;br&gt;.blog {margin-&lt;a target=&quot;_blank&quot; title=&quot;External link to left:1.5em&quot; href=&quot;left:1.5em&quot; class=&quot;externalLink&quot;&gt;left:1.5em&lt;/a&gt;;}  &lt;br&gt;&lt;br&gt;&lt;br&gt;.blog .excerpt {&lt;br&gt;  &lt;a target=&quot;_blank&quot; title=&quot;External link to margin:0&quot; href=&quot;margin:0&quot; class=&quot;externalLink&quot;&gt;margin:0&lt;/a&gt;;&lt;br&gt;margin-&lt;a target=&quot;_blank&quot; title=&quot;External link to top:0.3em&quot; href=&quot;top:0.3em&quot; class=&quot;externalLink&quot;&gt;top:0.3em&lt;/a&gt;;&lt;br&gt;  padding: 0;&lt;br&gt;  margin-&lt;a target=&quot;_blank&quot; title=&quot;External link to left:1em&quot; href=&quot;left:1em&quot; class=&quot;externalLink&quot;&gt;left:1em&lt;/a&gt;;&lt;br&gt;  padding-&lt;a target=&quot;_blank&quot; title=&quot;External link to left:1em&quot; href=&quot;left:1em&quot; class=&quot;externalLink&quot;&gt;left:1em&lt;/a&gt;;&lt;br&gt;  font-&lt;a target=&quot;_blank&quot; title=&quot;External link to size:90&quot; href=&quot;size:90&quot; class=&quot;externalLink&quot;&gt;size:90&lt;/a&gt;%;&lt;br&gt;  border-&lt;a target=&quot;_blank&quot; title=&quot;External link to left:1px&quot; href=&quot;left:1px&quot; class=&quot;externalLink&quot;&gt;left:1px&lt;/a&gt; solid #ddd;&lt;br&gt;}&lt;br&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;tiddlerWhatsNew h1, #tiddlerWhatsNew h2 {border-&lt;a target=&quot;_blank&quot; title=&quot;External link to bottom:none&quot; href=&quot;bottom:none&quot; class=&quot;externalLink&quot;&gt;bottom:none&lt;/a&gt;;}&lt;/li&gt;&lt;/ol&gt;div[tags~=&quot;RecentUpdates&quot;], div[tags~=&quot;lewcidExtension&quot;] {margin-bottom: 2em;}&lt;br&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;hoverMenu  .button, #hoverMenu  .tiddlyLink {&lt;a target=&quot;_blank&quot; title=&quot;External link to border:none&quot; href=&quot;border:none&quot; class=&quot;externalLink&quot;&gt;border:none&lt;/a&gt;; font-&lt;a target=&quot;_blank&quot; title=&quot;External link to weight:bold&quot; href=&quot;weight:bold&quot; class=&quot;externalLink&quot;&gt;weight:bold&lt;/a&gt;; ba&lt;a target=&quot;_blank&quot; title=&quot;External link to ckground:#f37211&quot; href=&quot;ckground:#f37211&quot; class=&quot;externalLink&quot;&gt;ckground:#f37211&lt;/a&gt;; &lt;a target=&quot;_blank&quot; title=&quot;External link to color:#fff&quot; href=&quot;color:#fff&quot; class=&quot;externalLink&quot;&gt;color:#fff&lt;/a&gt;; &lt;a target=&quot;_blank&quot; title=&quot;External link to padding:0&quot; href=&quot;padding:0&quot; class=&quot;externalLink&quot;&gt;padding:0&lt;/a&gt; 5px; &lt;a target=&quot;_blank&quot; title=&quot;External link to float:right&quot; href=&quot;float:right&quot; class=&quot;externalLink&quot;&gt;float:right&lt;/a&gt;; margin-&lt;a target=&quot;_blank&quot; title=&quot;External link to bottom:4px&quot; href=&quot;bottom:4px&quot; class=&quot;externalLink&quot;&gt;bottom:4px&lt;/a&gt;;}&lt;/li&gt;&lt;li&gt;hoverMenu .&lt;a target=&quot;_blank&quot; title=&quot;External link to button:hover&quot; href=&quot;button:hover&quot; class=&quot;externalLink&quot;&gt;button:hover&lt;/a&gt;, #hoverMenu .tiddlyL&lt;a target=&quot;_blank&quot; title=&quot;External link to ink:hover&quot; href=&quot;ink:hover&quot; class=&quot;externalLink&quot;&gt;ink:hover&lt;/a&gt; {font-&lt;a target=&quot;_blank&quot; title=&quot;External link to weight:bold&quot; href=&quot;weight:bold&quot; class=&quot;externalLink&quot;&gt;weight:bold&lt;/a&gt;; &lt;a target=&quot;_blank&quot; title=&quot;External link to border:none&quot; href=&quot;border:none&quot; class=&quot;externalLink&quot;&gt;border:none&lt;/a&gt;; &lt;a target=&quot;_blank&quot; title=&quot;External link to color:#f37211&quot; href=&quot;color:#f37211&quot; class=&quot;externalLink&quot;&gt;color:#f37211&lt;/a&gt;; ba&lt;a target=&quot;_blank&quot; title=&quot;External link to ckground:#000&quot; href=&quot;ckground:#000&quot; class=&quot;externalLink&quot;&gt;ckground:#000&lt;/a&gt;; &lt;a target=&quot;_blank&quot; title=&quot;External link to padding:0&quot; href=&quot;padding:0&quot; class=&quot;externalLink&quot;&gt;padding:0&lt;/a&gt; 5px; &lt;a target=&quot;_blank&quot; title=&quot;External link to float:right&quot; href=&quot;float:right&quot; class=&quot;externalLink&quot;&gt;float:right&lt;/a&gt;; margin-&lt;a target=&quot;_blank&quot; title=&quot;External link to bottom:4px&quot; href=&quot;bottom:4px&quot; class=&quot;externalLink&quot;&gt;bottom:4px&lt;/a&gt;;}&lt;/li&gt;&lt;/ol&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;topMenu .fontResizer {&lt;a target=&quot;_blank&quot; title=&quot;External link to float:right&quot; href=&quot;float:right&quot; class=&quot;externalLink&quot;&gt;float:right&lt;/a&gt;;}&lt;/li&gt;&lt;/ol&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;topMenu .fontResizer .button{&lt;a target=&quot;_blank&quot; title=&quot;External link to border:1px&quot; href=&quot;border:1px&quot; class=&quot;externalLink&quot;&gt;border:1px&lt;/a&gt; solid #000;}&lt;/li&gt;&lt;li&gt;topMenu .fontResizer .&lt;a target=&quot;_blank&quot; title=&quot;External link to button:hover&quot; href=&quot;button:hover&quot; class=&quot;externalLink&quot;&gt;button:hover&lt;/a&gt; {&lt;a target=&quot;_blank&quot; title=&quot;External link to border:1px&quot; href=&quot;border:1px&quot; class=&quot;externalLink&quot;&gt;border:1px&lt;/a&gt; solid #f37211; &lt;a target=&quot;_blank&quot; title=&quot;External link to color:#fff&quot; href=&quot;color:#fff&quot; class=&quot;externalLink&quot;&gt;color:#fff&lt;/a&gt;;}&lt;/li&gt;&lt;li&gt;sidebarTabs .txtMainTab .tiddlyLinkExisting {&lt;/li&gt;&lt;/ol&gt; font-weight: normal;&lt;br&gt; font-style: normal;&lt;br&gt;}&lt;br&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;sidebarTabs .txtMoreTab .tiddlyLinkExisting {&lt;/li&gt;&lt;/ol&gt; font-weight: bold;&lt;br&gt; font-style: normal;&lt;br&gt;}&lt;br&gt;&lt;br&gt;.block a{&lt;a target=&quot;_blank&quot; title=&quot;External link to display:block&quot; href=&quot;display:block&quot; class=&quot;externalLink&quot;&gt;display:block&lt;/a&gt;;}</description>
+<category>LewcidOrangeTheme</category>
+<link>http://www.tiddlywiki.com/#StyleSheet</link>
+<pubDate>Tue, 23 Oct 2007 00:38:00 GMT</pubDate>
+</item>
+<item>
+<title>Stick</title>
+<description> &lt;span tiddler=&quot;HideTiddlerSubtitle&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt; &lt;span tiddler=&quot;HideTiddlerTitle&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt; &lt;span tiddler=&quot;ReplaceDoubleClick&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt; &lt;span tiddler=&quot;HideTiddlerTags&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt; &lt;br&gt;&lt;h1&gt;小貼紙&lt;/h1&gt;&lt;h2&gt;請各位同好協助, 利用以下貼紙幫本研討會宣傳. :)&lt;/h2&gt;&lt;h2&gt;300x250&lt;/h2&gt;&lt;a target=&quot;_blank&quot; title=&quot;External link to http://coscup.org/2007/071016_banner_300x250.png&quot; href=&quot;http://coscup.org/2007/071016_banner_300x250.png&quot; class=&quot;externalLink&quot;&gt;http://coscup.org/2007/071016_banner_300x250.png&lt;/a&gt;&lt;br&gt;&lt;img src=&quot;071016_banner_300x250.png&quot;&gt;&lt;br&gt;&lt;h2&gt;468x60&lt;/h2&gt;&lt;a target=&quot;_blank&quot; title=&quot;External link to http://coscup.org/2007/071016_banner_468x60.png&quot; href=&quot;http://coscup.org/2007/071016_banner_468x60.png&quot; class=&quot;externalLink&quot;&gt;http://coscup.org/2007/071016_banner_468x60.png&lt;/a&gt;&lt;br&gt;&lt;img src=&quot;071016_banner_468x60.png&quot;&gt;&lt;br&gt;&lt;h2&gt;80x25&lt;/h2&gt;&lt;a target=&quot;_blank&quot; title=&quot;External link to http://coscup.org/2007/071016_banner_80x25.png&quot; href=&quot;http://coscup.org/2007/071016_banner_80x25.png&quot; class=&quot;externalLink&quot;&gt;http://coscup.org/2007/071016_banner_80x25.png&lt;/a&gt;&lt;br&gt;&lt;img src=&quot;071016_banner_80x25.png&quot;&gt;</description>
+<link>http://www.tiddlywiki.com/#Stick</link>
+<pubDate>Tue, 16 Oct 2007 16:59:00 GMT</pubDate>
+</item>
+<item>
+<title>REG</title>
+<description>&lt;span tiddler=&quot;HideTiddlerTitle&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt; &lt;span tiddler=&quot;HideTiddlerSubtitle&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt; &lt;span tiddler=&quot;ReplaceDoubleClick&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt; &lt;span tiddler=&quot;HideTiddlerTags&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;h1&gt;Registration / 報名&lt;/h1&gt;本年度 COSCUP 與 ICOS 為聯合研討會, 請至 &lt;a target=&quot;_blank&quot; title=&quot;External link to http://www.slat.org/icos2007/index.php?option=com_attend_events&amp;amp;task=view&amp;amp;id=1&amp;amp;Itemid=0&quot; href=&quot;http://www.slat.org/icos2007/index.php?option=com_attend_events&amp;amp;task=view&amp;amp;id=1&amp;amp;Itemid=0&quot; class=&quot;externalLink&quot;&gt;ICOS 報名系統&lt;/a&gt; 報名, 並請務必點選您想要參加的議程以利統計場次及人數.&lt;br&gt;&lt;h2&gt;* &lt;a target=&quot;_blank&quot; title=&quot;External link to http://www.slat.org/icos2007/index.php?option=com_attend_events&amp;amp;task=view&amp;amp;id=1&amp;amp;Itemid=0&quot; href=&quot;http://www.slat.org/icos2007/index.php?option=com_attend_events&amp;amp;task=view&amp;amp;id=1&amp;amp;Itemid=0&quot; class=&quot;externalLink&quot;&gt;ICOS 報名系統&lt;/a&gt;&lt;/h2&gt;</description>
+<link>http://www.tiddlywiki.com/#REG</link>
+<pubDate>Tue, 16 Oct 2007 15:47:00 GMT</pubDate>
+</item>
+<item>
+<title>COSCUP</title>
+<description> &lt;span tiddler=&quot;HideTiddlerSubtitle&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt; &lt;span tiddler=&quot;HideTiddlerTitle&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt; &lt;span tiddler=&quot;ReplaceDoubleClick&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt; &lt;span tiddler=&quot;HideTiddlerTags&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt; &lt;br&gt;&lt;h1&gt;* 時間：2007 年 11 月 3 日（六）- 11 月 4 日（日）&lt;/h1&gt;&lt;h1&gt;* 地點：台北市和平東路 2 段 106 號 科技大樓 二樓&lt;/h1&gt;&lt;h1&gt;Main Theme / 大會宗旨&lt;/h1&gt;傳統商業軟體的開發者（coders）和使用者（users）很少交流，是大家都接受的事實。你的軟體用起來有問題？請打技術支援電話，由客服人員為你服務，他或許已經儘其所能，但未必能解決你的問題。如果問題是軟體的臭蟲，你只好痴痴地等待不知幾年後才開賣的下一版。而你當初之所以選用Ａ軟體而不是Ｂ軟體，常常是聽信銷售員（sales）的一面之詞或同儕的推薦。在這個行為模式下，users 面對的是銷售員和客服，coders 面對的還是銷售員和客服，users 遇到的問題要間接地才能反應到 coders 手上，中間還可能會被過濾掉。&lt;br&gt;&lt;br&gt;Open source 這個在 1998 年出現的名詞，大家早已耳熟能詳。這種在網路上已經進行二三十年的軟體開發模式之所以能成功，有許多原因，其中一個極為關鍵的因素，就是 coder-user 的直接接觸。無屏障的交流形成了問題的快速回報和修補機制，而當這個機制被網路效應放大到極限時，Linus 定律就出現了：《臭蟲難逃眾人法眼》（With enough eyeballs, all bugs are shallow），軟體品質因此顯著提昇。在 open source 的模式中，coders 和 users 中間的人不再是銷售員或客服，而是讓軟體更容易被 users 接受的推廣者（promoters），他們打包套件讓軟體更好裝、寫說明文件讓軟體更易學、辦推廣活動讓軟體被更多人接觸到、在網路上回答問題解決使用者的疑惑，而且不會把 coders 藏在背後產生資訊的不對稱。&lt;br&gt;&lt;br&gt;Coders、users 和 promoters 是讓 open source 軟體發光發熱的支柱，所以我們的 open source 研討會是專為這三種人舉辦的。你可以是 A 軟體的 coder、B 軟體的 promoter、C 軟體的 user。不論你是已經踏入 open source 領域，還是一直站在門口不知如何入門，歡迎你來參加 COSCUP - Conference for Open Source Coders, Users and Promoters！&lt;br&gt;&lt;br&gt;今年的 &lt;a tiddlyfields=&quot;server.type:&amp;quot;file&amp;quot; server.host:&amp;quot;file://G:\Work\07_11_COSCUP\web\index.html&amp;quot;&quot; tiddlylink=&quot;COSCUP&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#COSCUP&quot; href=&quot;http://www.tiddlywiki.com/#COSCUP&quot; class=&quot;externalLink&quot;&gt;COSCUP&lt;/a&gt; 最大的改變，是由各台灣本地社群共同舉辦，也希望能透過這樣的合作，增加社群同好的參與度，正如 &lt;a tiddlyfields=&quot;server.type:&amp;quot;file&amp;quot; server.host:&amp;quot;file://G:\Work\07_11_COSCUP\web\index.html&amp;quot;&quot; tiddlylink=&quot;COSCUP&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#COSCUP&quot; href=&quot;http://www.tiddlywiki.com/#COSCUP&quot; class=&quot;externalLink&quot;&gt;COSCUP&lt;/a&gt; 的精神，在這個研討會當中，你同時是與會者，推廣者，也參與了大會的運作。&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt; 誰應該參加：寫 open source 軟體的開發者、熱衷 open source 軟體的推廣者、熟悉 open source 軟體的使用者、想了解 open source 軟體的新手。&lt;/li&gt;&lt;/ul&gt;</description>
+<link>http://www.tiddlywiki.com/#COSCUP</link>
+<pubDate>Tue, 16 Oct 2007 15:32:00 GMT</pubDate>
+</item>
+<item>
+<title>contentFooter</title>
+<description>(C) Conference for Open Source Coders, Users and Promoters, &lt;span&gt;&lt;font=&quot;#ffffff&quot;&gt;&lt;b&gt;Powered by TiddlyWiki&lt;/b&gt;&lt;/font=&quot;#ffffff&quot;&gt;&lt;/span&gt;</description>
+<link>http://www.tiddlywiki.com/#contentFooter</link>
+<pubDate>Sat, 06 Oct 2007 13:55:00 GMT</pubDate>
+</item>
+<item>
+<title>Past</title>
+<description>&lt;span tiddler=&quot;HideTiddlerTitle&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt; &lt;span tiddler=&quot;HideTiddlerSubtitle&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt; &lt;span tiddler=&quot;ReplaceDoubleClick&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt; &lt;span tiddler=&quot;HideTiddlerTags&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;h1&gt;歷年活動&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;a target=&quot;_blank&quot; title=&quot;External link to http://coscup.org/2006/&quot; href=&quot;http://coscup.org/2006/&quot; class=&quot;externalLink&quot;&gt;COSCUP 2006&lt;/a&gt;&lt;/li&gt;&lt;li&gt; ICOS 2005 社群議程&lt;/li&gt;&lt;li&gt; ICOS 2004 社群議程&lt;/li&gt;&lt;li&gt; ICOS 2003 社群議程&lt;/li&gt;&lt;li&gt; ICOS 2002 社群議程&lt;/li&gt;&lt;li&gt; ICOS 2001 社群議程&lt;/li&gt;&lt;li&gt; ICOS 2000&lt;/li&gt;&lt;li&gt; OSW 1999&lt;/li&gt;&lt;/ul&gt;</description>
+<link>http://www.tiddlywiki.com/#Past</link>
+<pubDate>Sat, 06 Oct 2007 07:51:00 GMT</pubDate>
+</item>
+<item>
+<title>CFP</title>
+<description>&lt;span tiddler=&quot;HideTiddlerTitle&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt; &lt;span tiddler=&quot;HideTiddlerSubtitle&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt; &lt;span tiddler=&quot;HideTiddlerTags&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;h1&gt;Call For Proposal / 徵求提案&lt;/h1&gt;今年的大會，我們希望能讓更多開放原始碼的同好參與，因此請各位社群先進，不論是您自己想要上來露個臉介紹自己的經驗，或是您希望 &lt;a tiddlyfields=&quot;server.type:&amp;quot;file&amp;quot; server.host:&amp;quot;file://G:\Work\07_11_COSCUP\web\index.html&amp;quot;&quot; tiddlylink=&quot;COSCUP&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#COSCUP&quot; href=&quot;http://www.tiddlywiki.com/#COSCUP&quot; class=&quot;externalLink&quot;&gt;COSCUP&lt;/a&gt; 籌委邀請哪一位講者來介紹哪個議題，都請聯絡我們 (請聯絡 2007cfp at coscup.org)。&lt;br&gt;&lt;br&gt;今年 &lt;a tiddlyfields=&quot;server.type:&amp;quot;file&amp;quot; server.host:&amp;quot;file://G:\Work\07_11_COSCUP\web\index.html&amp;quot;&quot; tiddlylink=&quot;COSCUP&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#COSCUP&quot; href=&quot;http://www.tiddlywiki.com/#COSCUP&quot; class=&quot;externalLink&quot;&gt;COSCUP&lt;/a&gt; 的議程範圍如下 (包括, 但不限於)：&lt;br&gt;&lt;ul&gt;&lt;li&gt;嵌入式平台 (Embedded Platform)&lt;/li&gt;&lt;li&gt;文件管理系統 (Content Management System)&lt;/li&gt;&lt;li&gt;中文相關 (Chinese Language Related)&lt;/li&gt;&lt;li&gt;發掘本土隱性 OSS 專案 (Local Projects without Promotion)&lt;/li&gt;&lt;li&gt;開放源碼之桌面工具或綠色軟體 (Open Sourced Desktop Tools / Greenware)&lt;/li&gt;&lt;li&gt;網站相關架構 (Web-Oriented Architecture)&lt;/li&gt;&lt;li&gt;新技術介紹 (State-of-the-art)&lt;/li&gt;&lt;li&gt;地區性社群活動 (Regional Community Activities)&lt;/li&gt;&lt;li&gt;國際社群交流 (International Community Cooperation)&lt;/li&gt;&lt;li&gt;其他與開放原始碼相關議題 (Other Open-Source Related Topics)&lt;/li&gt;&lt;/ul&gt;所有接受的議題，在正式議程中，每個講者預計有 20 分鐘的介紹時間（將依實際安排細節稍作調整），而閃電秀 （Lightning Talk）時間會比較短。</description>
+<link>http://www.tiddlywiki.com/#CFP</link>
+<pubDate>Sat, 06 Oct 2007 07:50:00 GMT</pubDate>
+</item>
+<item>
+<title>Dates</title>
+<description>&lt;span tiddler=&quot;HideTiddlerTitle&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt; &lt;span tiddler=&quot;HideTiddlerSubtitle&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt; &lt;span tiddler=&quot;ReplaceDoubleClick&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt; &lt;span tiddler=&quot;HideTiddlerTags&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;h1&gt;Important Dates / 重要日程&lt;/h1&gt;&lt;ul&gt;&lt;li&gt;2007/7/15  - 徵求參與建議&lt;/li&gt;&lt;li&gt;2007/9/1   - 收件截止&lt;/li&gt;&lt;li&gt;2007/9/15  - 宣布入選名單, 並排定初步議程&lt;/li&gt;&lt;li&gt;2007/10/初 - 初步議程公告 (未定, 待更新)&lt;/li&gt;&lt;li&gt;2007/10/31 - 收齊講者文稿&lt;/li&gt;&lt;li&gt;2007/11/3-11/4 - COSCUP 2007 大會&lt;/li&gt;&lt;/ul&gt;</description>
+<link>http://www.tiddlywiki.com/#Dates</link>
+<pubDate>Sat, 06 Oct 2007 07:50:00 GMT</pubDate>
+</item>
+<item>
+<title>ORG</title>
+<description>&lt;span tiddler=&quot;HideTiddlerTitle&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt; &lt;span tiddler=&quot;HideTiddlerSubtitle&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt; &lt;span tiddler=&quot;ReplaceDoubleClick&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt; &lt;span tiddler=&quot;HideTiddlerTags&quot; refresh=&quot;content&quot;&gt;&lt;/span&gt; &lt;br&gt;&lt;h1&gt;Cooperating Organizations / 合辦單位&lt;/h1&gt;&lt;ul&gt;&lt;li&gt;&lt;a target=&quot;_blank&quot; title=&quot;External link to http://wiki.tossug.org&quot; href=&quot;http://wiki.tossug.org&quot; class=&quot;externalLink&quot;&gt;TOSSUG&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a target=&quot;_blank&quot; title=&quot;External link to http://www.study-area.org&quot; href=&quot;http://www.study-area.org&quot; class=&quot;externalLink&quot;&gt;Study Area&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a target=&quot;_blank&quot; title=&quot;External link to http://kalug.linux.org.tw&quot; href=&quot;http://kalug.linux.org.tw&quot; class=&quot;externalLink&quot;&gt;KaLUG&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a target=&quot;_blank&quot; title=&quot;External link to http://chupei.pm.org/&quot; href=&quot;http://chupei.pm.org/&quot; class=&quot;externalLink&quot;&gt;Chupei.PM&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a target=&quot;_blank&quot; title=&quot;External link to http://handlino.com&quot; href=&quot;http://handlino.com&quot; class=&quot;externalLink&quot;&gt;Handlino 和多工作室&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a target=&quot;_blank&quot; title=&quot;External link to http://www.zuso.org.tw&quot; href=&quot;http://www.zuso.org.tw&quot; class=&quot;externalLink&quot;&gt;Zuso&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a target=&quot;_blank&quot; title=&quot;External link to http://www.slat.org&quot; href=&quot;http://www.slat.org&quot; class=&quot;externalLink&quot;&gt;SLAT&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+<link>http://www.tiddlywiki.com/#ORG</link>
+<pubDate>Sat, 06 Oct 2007 07:50:00 GMT</pubDate>
+</item>
+<item>
+<title>ToggleRightSidebar</title>
+<description>&lt;a style=&quot;cursor: pointer; font-weight: normal;&quot; href=&quot;javascript:;&quot; title=&quot;show sidebar&quot; class=&quot;tiddlyLinkExisting&quot;&gt;&amp;lt;&amp;lt;&amp;lt;&lt;/a&gt;</description>
+<category>script</category>
+<category>includeNew</category>
+<category>MenuPackage</category>
+<link>http://www.tiddlywiki.com/#ToggleRightSidebar</link>
+<pubDate>Sat, 06 Oct 2007 07:34:00 GMT</pubDate>
+</item>
+<item>
+<title>ReplaceDoubleClick</title>
+<description></description>
+<category>includeNew</category>
+<category>script</category>
+<link>http://www.tiddlywiki.com/#ReplaceDoubleClick</link>
+<pubDate>Sat, 06 Oct 2007 07:29:00 GMT</pubDate>
+</item>
+<item>
+<title>HideTiddlerToolbar</title>
+<description></description>
+<category>script</category>
+<category>includeNew</category>
+<link>http://www.tiddlywiki.com/#HideTiddlerToolbar</link>
+<pubDate>Sat, 06 Oct 2007 07:26:00 GMT</pubDate>
+</item>
+<item>
+<title>InlineJavascriptPlugin</title>
+<description>&lt;table class=&quot;twtable&quot;&gt;&lt;tbody&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;Name&lt;/td&gt;&lt;td&gt;InlineJavascriptPlugin&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;Source&lt;/td&gt;&lt;td&gt;&lt;a target=&quot;_blank&quot; title=&quot;External link to http://www.TiddlyTools.com/#InlineJavascriptPlugin&quot; href=&quot;http://www.TiddlyTools.com/#InlineJavascriptPlugin&quot; class=&quot;externalLink&quot;&gt;http://www.TiddlyTools.com/#InlineJavascriptPlugin&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;Version&lt;/td&gt;&lt;td&gt;1.6.0&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;Author&lt;/td&gt;&lt;td&gt;Eric Shulman - ELS Design Studios&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;License&lt;/td&gt;&lt;td&gt;&lt;a target=&quot;_blank&quot; title=&quot;External link to http://www.TiddlyTools.com/#LegalStatements&quot; href=&quot;http://www.TiddlyTools.com/#LegalStatements&quot; class=&quot;externalLink&quot;&gt;http://www.TiddlyTools.com/#LegalStatements&lt;/a&gt; &lt;br&gt;and &lt;a target=&quot;_blank&quot; title=&quot;External link to http://creativecommons.org/licenses/by-sa/2.5/&quot; href=&quot;http://creativecommons.org/licenses/by-sa/2.5/&quot; class=&quot;externalLink&quot;&gt;Creative Commons Attribution-ShareAlike 2.5 License&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;CoreVersion&lt;/td&gt;&lt;td&gt;2.1&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;Type&lt;/td&gt;&lt;td&gt;plugin&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;Requires&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;Overrides&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;Description&lt;/td&gt;&lt;td&gt;Insert Javascript executable code directly into your tiddler content.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;br&gt;&lt;strong&gt;Call directly into TW core utility routines, define new functions, calculate values, add dynamically-generated TiddlyWiki-formatted output&lt;/strong&gt; into tiddler content, or perform any other programmatic actions each time the tiddler is rendered.&lt;br&gt;&lt;h5&gt;Usage&lt;/h5&gt;&lt;blockquote&gt;When installed, this plugin adds new wiki syntax for surrounding tiddler content with &lt;code&gt;&amp;lt;script&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;/script&amp;gt;&lt;/code&gt; markers, so that it can be treated as embedded javascript and executed each time the tiddler is rendered.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Deferred execution from an 'onClick' link&lt;/strong&gt;&lt;br&gt;By including a &lt;code&gt;label=&quot;...&quot;&lt;/code&gt; parameter in the initial &lt;code&gt;&amp;lt;script&amp;gt;&lt;/code&gt; marker, the plugin will create a link to an 'onclick' script that will only be executed when that specific link is clicked, rather than running the script each time the tiddler is rendered.  You may also include a &lt;code&gt;title=&quot;...&quot;&lt;/code&gt; parameter to specify the 'tooltip' text that will appear whenever the mouse is moved over the onClick link text&lt;br&gt;&lt;br&gt;&lt;strong&gt;External script source files:&lt;/strong&gt;&lt;br&gt;You can also load javascript from an external source URL, by including a src=&quot;...&quot; parameter in the initial &lt;code&gt;&amp;lt;script&amp;gt;&lt;/code&gt; marker (e.g., &lt;code&gt;&amp;lt;script src=&quot;demo.js&quot;&amp;gt;&amp;lt;/script&amp;gt;&lt;/code&gt;).  This is particularly useful when incorporating third-party javascript libraries for use in custom extensions and plugins.  The 'foreign' javascript code remains isolated in a separate file that can be easily replaced whenever an updated library file becomes available.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Display script source in tiddler output&lt;/strong&gt;&lt;br&gt;By including the keyword parameter &quot;show&quot;, in the initial &lt;code&gt;&amp;lt;script&amp;gt;&lt;/code&gt; marker, the plugin will include the script source code in the output that it displays in the tiddler.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Defining javascript functions and libraries:&lt;/strong&gt;&lt;br&gt;Although the external javascript file is loaded while the tiddler content is being rendered, any functions it defines will not be available for use until &lt;em&gt;after&lt;/em&gt; the rendering has been completed.  Thus, you cannot load a library and &lt;em&gt;immediately&lt;/em&gt; use it's functions within the same tiddler.  However, once that tiddler has been loaded, the library functions can be freely used in any tiddler (even the one in which it was initially loaded).&lt;br&gt;&lt;br&gt;To ensure that your javascript functions are always available when needed, you should load the libraries from a tiddler that will be rendered as soon as your TiddlyWiki document is opened.  For example, you could put your &lt;code&gt;&amp;lt;script src=&quot;...&quot;&amp;gt;&amp;lt;/script&amp;gt;&lt;/code&gt; syntax into a tiddler called LoadScripts, and then add &lt;code&gt;&amp;lt;&amp;lt;tiddler LoadScripts&amp;gt;&amp;gt;&lt;/code&gt; in your MainMenu tiddler.&lt;br&gt;&lt;br&gt;Since the MainMenu is always rendered immediately upon opening your document, the library will always be loaded before any other tiddlers that rely upon the functions it defines.  Loading an external javascript library does not produce any direct output in the tiddler, so these definitions should have no impact on the appearance of your MainMenu.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Creating dynamic tiddler content&lt;/strong&gt;&lt;br&gt;An important difference between this implementation of embedded scripting and conventional embedded javascript techniques for web pages is the method used to produce output that is dynamically inserted into the document:&lt;br&gt;&lt;ul&gt;&lt;li&gt; In a typical web document, you use the document.write() function to output text sequences (often containing HTML tags) that are then rendered when the entire document is first loaded into the browser window.&lt;/li&gt;&lt;li&gt; However, in a TiddlyWiki document, tiddlers (and other DOM elements) are created, deleted, and rendered &quot;on-the-fly&quot;, so writing directly to the global 'document' object does not produce the results you want (i.e., replacing the embedded script within the tiddler content), and completely replaces the entire TiddlyWiki document in your browser window.&lt;/li&gt;&lt;li&gt; To allow these scripts to work unmodified, the plugin automatically converts all occurences of document.write() so that the output is inserted into the tiddler content instead of replacing the entire TiddlyWiki document.&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;If your script does not use document.write() to create dynamically embedded content within a tiddler, your javascript can, as an alternative, explicitly return a text value that the plugin can then pass through the wikify() rendering engine to insert into the tiddler display.  For example, using &lt;code&gt;return &quot;thistext&quot;&lt;/code&gt; will produce the same output as &lt;code&gt;document.write(&quot;thistext&quot;)&lt;/code&gt;.&lt;br&gt;&lt;br&gt;&lt;em&gt;Note: your script code is automatically 'wrapped' inside a function, &lt;code&gt;_out()&lt;/code&gt;, so that any return value you provide can be correctly handled by the plugin and inserted into the tiddler.  To avoid unpredictable results (and possibly fatal execution errors), this function should never be redefined or called from &lt;strong&gt;within&lt;/strong&gt; your script code.&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;Accessing the TiddlyWiki DOM&lt;/strong&gt;&lt;br&gt;The plugin provides one pre-defined variable, 'place', that is passed in to your javascript code so that it can have direct access to the containing DOM element into which the tiddler output is currently being rendered.&lt;br&gt;&lt;br&gt;Access to this DOM element allows you to create scripts that can:&lt;br&gt;&lt;ul&gt;&lt;li&gt; vary their actions based upon the specific location in which they are embedded&lt;/li&gt;&lt;li&gt; access 'tiddler-relative' information (use findContainingTiddler(place))&lt;/li&gt;&lt;li&gt; perform direct DOM manipulations (when returning wikified text is not enough)&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;&lt;h5&gt;Examples&lt;/h5&gt;&lt;blockquote&gt;an &quot;alert&quot; message box:&lt;br&gt;&lt;blockquote&gt;&lt;pre&gt;&amp;lt;script show&amp;gt;
+	alert('InlineJavascriptPlugin: this is a demonstration message');
+&amp;lt;/script&amp;gt;
+&lt;/pre&gt;&lt;br&gt;&lt;/blockquote&gt;dynamic output:&lt;br&gt;&lt;blockquote&gt;&lt;pre&gt;&amp;lt;script show&amp;gt;
+	return (new Date()).toString();
+&amp;lt;/script&amp;gt;
+&lt;/pre&gt;Thu Nov 01 2007 12:58:41 GMT+0800&lt;br&gt;&lt;/blockquote&gt;wikified dynamic output:&lt;br&gt;&lt;blockquote&gt;&lt;pre&gt;&amp;lt;script show&amp;gt;
+	return &quot;link to current user: [[&quot;+config.options.txtUserName+&quot;]]&quot;;
+&amp;lt;/script&amp;gt;
+&lt;/pre&gt;link to current user: &lt;a tiddlyfields=&quot;server.type:&amp;quot;file&amp;quot; server.host:&amp;quot;file://G:\Work\07_11_COSCUP\web\index.html&amp;quot;&quot; tiddlylink=&quot;knight&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkNonExisting&quot; title=&quot;The tiddler 'knight' doesn't yet exist&quot; href=&quot;javascript:;&quot;&gt;knight&lt;/a&gt;&lt;br&gt;&lt;/blockquote&gt;dynamic output using 'place' to get size information for current tiddler:&lt;br&gt;&lt;blockquote&gt;&lt;pre&gt;&amp;lt;script show&amp;gt;
+   if (!window.story) window.story=window;
+   var title=story.findContainingTiddler(place).id.substr(7);
+   return title+&quot; is using &quot;+store.getTiddlerText(title).length+&quot; bytes&quot;;
+&amp;lt;/script&amp;gt;
+&lt;/pre&gt;TypeError: story.findContainingTiddler(place) has no properties&lt;br&gt;&lt;/blockquote&gt;creating an 'onclick' button/link that runs a script:&lt;br&gt;&lt;blockquote&gt;&lt;pre&gt;&amp;lt;script label=&quot;click here&quot; title=&quot;clicking this link will show an 'alert' box&quot; show&amp;gt;
+   if (!window.story) window.story=window;
+   alert(&quot;Hello World!\nlinktext='&quot;+place.firstChild.data+&quot;'\ntiddler='&quot;+story.findContainingTiddler(place).id.substr(7)+&quot;'&quot;);
+&amp;lt;/script&amp;gt;
+&lt;/pre&gt;&lt;a style=&quot;cursor: pointer;&quot; href=&quot;javascript:;&quot; title=&quot;clicking this link will show an 'alert' box&quot; class=&quot;tiddlyLinkExisting&quot;&gt;click here&lt;/a&gt;&lt;br&gt;&lt;/blockquote&gt;loading a script from a source url:&lt;br&gt;&lt;blockquote&gt;&lt;a target=&quot;_blank&quot; title=&quot;External link to http://www.TiddlyTools.com/demo.js&quot; href=&quot;http://www.TiddlyTools.com/demo.js&quot; class=&quot;externalLink&quot;&gt;http://www.TiddlyTools.com/demo.js&lt;/a&gt; contains:&lt;br&gt;&lt;blockquote&gt;&lt;code&gt;function demo() { alert('this output is from demo(), defined in demo.js') } &lt;/code&gt;&lt;br&gt;&lt;code&gt;alert('InlineJavascriptPlugin: demo.js has been loaded'); &lt;/code&gt;&lt;br&gt;&lt;/blockquote&gt;&lt;pre&gt;&amp;lt;script src=&quot;demo.js&quot; show&amp;gt;
+	return &quot;loading demo.js...&quot;
+&amp;lt;/script&amp;gt;
+&lt;/pre&gt;loading demo.js...&lt;br&gt;&lt;pre&gt;&amp;lt;script label=&quot;click to execute demo() function&quot; show&amp;gt;
+	demo()
+&amp;lt;/script&amp;gt;
+&lt;/pre&gt;&lt;a style=&quot;cursor: pointer;&quot; href=&quot;javascript:;&quot; title=&quot;&quot; class=&quot;tiddlyLinkExisting&quot;&gt;click to execute demo() function&lt;/a&gt;&lt;br&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;h5&gt;Installation&lt;/h5&gt;&lt;blockquote&gt;import (or copy/paste) the following tiddlers into your document:&lt;br&gt;&lt;strong&gt;InlineJavascriptPlugin&lt;/strong&gt; (tagged with &lt;a tag=&quot;systemConfig&quot; class=&quot;button&quot; title=&quot;Show tiddlers tagged with 'systemConfig'&quot; href=&quot;javascript:;&quot;&gt;systemConfig&lt;/a&gt;)&lt;br&gt;&lt;/blockquote&gt;&lt;h5&gt;Revision History&lt;/h5&gt;&lt;blockquote&gt;&lt;strong&gt;2007.02.19 [1.6.0]&lt;/strong&gt; added support for title=&quot;...&quot; to specify mouseover tooltip when using an onclick (label=&quot;...&quot;) script&lt;br&gt;&lt;strong&gt;2006.10.16 [1.5.2]&lt;/strong&gt; add newline before closing '}' in 'function out_' wrapper.  Fixes error caused when last line of script is a comment.&lt;br&gt;&lt;strong&gt;2006.06.01 [1.5.1]&lt;/strong&gt; when calling wikify() on script return value, pass hightlightRegExp and tiddler params so macros that rely on these values can render properly&lt;br&gt;&lt;strong&gt;2006.04.19 [1.5.0]&lt;/strong&gt; added 'show' parameter to force display of javascript source code in tiddler output&lt;br&gt;&lt;strong&gt;2006.01.05 [1.4.0]&lt;/strong&gt; added support 'onclick' scripts.  When label=&quot;...&quot; param is present, a button/link is created using the indicated label text, and the script is only executed when the button/link is clicked.  'place' value is set to match the clicked button/link element.&lt;br&gt;&lt;strong&gt;2005.12.13 [1.3.1]&lt;/strong&gt; when catching eval error in IE, e.description contains the error text, instead of e.toString().  Fixed error reporting so IE shows the correct response text.  Based on a suggestion by UdoBorkowski&lt;br&gt;&lt;strong&gt;2005.11.09 [1.3.0]&lt;/strong&gt; for 'inline' scripts (i.e., not scripts loaded with src=&quot;...&quot;), automatically replace calls to 'document.write()' with 'place.innerHTML+=' so script output is directed into tiddler content.  Based on a suggestion by BradleyMeck&lt;br&gt;&lt;strong&gt;2005.11.08 [1.2.0]&lt;/strong&gt; handle loading of javascript from an external URL via src=&quot;...&quot; syntax&lt;br&gt;&lt;strong&gt;2005.11.08 [1.1.0]&lt;/strong&gt; pass 'place' param into scripts to provide direct DOM access &lt;br&gt;&lt;strong&gt;2005.11.08 [1.0.0]&lt;/strong&gt; initial release&lt;br&gt;&lt;/blockquote&gt;&lt;h5&gt;Credits&lt;/h5&gt;&lt;blockquote&gt;This feature was developed by EricShulman from &lt;a target=&quot;_blank&quot; title=&quot;External link to http:/www.elsdesign.com&quot; href=&quot;http:/www.elsdesign.com&quot; class=&quot;externalLink&quot;&gt;ELS Design Studios&lt;/a&gt;&lt;br&gt;&lt;/blockquote&gt;&lt;h5&gt;Code&lt;/h5&gt;&lt;pre&gt;version.extensions.inlineJavascript= {major: 1, minor: 6, revision: 0, date: new Date(2007,2,19)};
+
+config.formatters.push( {
+	name: &quot;inlineJavascript&quot;,
+	match: &quot;\\&amp;lt;script&quot;,
+	lookahead: &quot;\\&amp;lt;script(?: src=\\\&quot;((?:.|\\n)*?)\\\&quot;)?(?: label=\\\&quot;((?:.|\\n)*?)\\\&quot;)?(?: title=\\\&quot;((?:.|\\n)*?)\\\&quot;)?( show)?\\&amp;gt;((?:.|\\n)*?)\\&amp;lt;/script\\&amp;gt;&quot;,
+
+	handler: function(w) {
+		var lookaheadRegExp = new RegExp(this.lookahead,&quot;mg&quot;);
+		lookaheadRegExp.lastIndex = w.matchStart;
+		var lookaheadMatch = lookaheadRegExp.exec(w.source)
+		if(lookaheadMatch &amp;amp;&amp;amp; lookaheadMatch.index == w.matchStart) {
+			if (lookaheadMatch[1]) { // load a script library
+				// make script tag, set src, add to body to execute, then remove for cleanup
+				var script = document.createElement(&quot;script&quot;); script.src = lookaheadMatch[1];
+				document.body.appendChild(script); document.body.removeChild(script);
+			}
+			if (lookaheadMatch[5]) { // there is script code
+				if (lookaheadMatch[4]) // show inline script code in tiddler output
+					wikify(&quot;{{{\n&quot;+lookaheadMatch[0]+&quot;\n}}}\n&quot;,w.output);
+				if (lookaheadMatch[2]) { // create a link to an 'onclick' script
+					// add a link, define click handler, save code in link (pass 'place'), set link attributes
+					var link=createTiddlyElement(w.output,&quot;a&quot;,null,&quot;tiddlyLinkExisting&quot;,lookaheadMatch[2]);
+					link.onclick=function(){try{return(eval(this.code))}catch(e){alert(e.description?e.description:e.toString())}}
+					link.code=&quot;function _out(place){&quot;+lookaheadMatch[5]+&quot;\n};_out(this);&quot;
+					link.setAttribute(&quot;title&quot;,lookaheadMatch[3]?lookaheadMatch[3]:&quot;&quot;);
+					link.setAttribute(&quot;href&quot;,&quot;javascript:;&quot;);
+					link.style.cursor=&quot;pointer&quot;;
+				}
+				else { // run inline script code
+					var code=&quot;function _out(place){&quot;+lookaheadMatch[5]+&quot;\n};_out(w.output);&quot;
+					code=code.replace(/document.write\(/gi,'place.innerHTML+=(');
+					try { var out = eval(code); } catch(e) { out = e.description?e.description:e.toString(); }
+					if (out &amp;amp;&amp;amp; out.length) wikify(out,w.output,w.highlightRegExp,w.tiddler);
+				}
+			}
+			w.nextMatch = lookaheadMatch.index + lookaheadMatch[0].length;
+		}
+	}
+} )
+&lt;/pre&gt;</description>
+<category>BackstagePackage</category>
+<category>CatalogPackage</category>
+<category>DiscoveryPackage</category>
+<category>IconPackage</category>
+<category>MediaPackage</category>
+<category>MenuPackage</category>
+<category>TaskPackage</category>
+<category>TidIDEPackage</category>
+<category>includeNew</category>
+<category>systemConfig</category>
+<category>FormattingPackage</category>
+<category>systemConfigForce</category>
+<link>http://www.tiddlywiki.com/#InlineJavascriptPlugin</link>
+<pubDate>Sat, 06 Oct 2007 07:18:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
